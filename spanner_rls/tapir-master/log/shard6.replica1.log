@@ -1,0 +1,146 @@
+20230730-113324-6367 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,995> to <0,996>
+20230730-113324-6369 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,996> to <0,997>
+20230730-113324-6370 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,997> to <0,998>
+20230730-113324-6371 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,998> to <0,1000>
+20230730-113324-6372 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,1000> to <0,1001>
+20230730-113327-7110 00096 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,10728>
+20230730-113327-7112 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,10728> to <0,10728>
+20230730-113347-2737 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,59749> to <0,59750>
+20230730-113347-2738 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,59750> to <0,59751>
+20230730-113348-5300 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,63364> to <0,63366>
+20230730-113348-5302 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,63366> to <0,63367>
+20230730-113348-5304 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,63367> to <0,63369>
+20230730-113349-3393 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3401 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3408 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3414 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3417 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-3427 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3440 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3443 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-3450 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3459 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3463 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3465 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-3470 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3474 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3483 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3485 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-3494 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3494 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-3500 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3501 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3503 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-3508 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3510 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-3513 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-3515 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-3517 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113349-3528 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3534 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3536 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3543 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3548 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3555 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3560 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3565 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3573 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3578 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3600 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3615 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3620 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3643 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3672 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3686 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3689 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3714 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3715 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3718 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3741 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3781 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-3784 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4182 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4230 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4257 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4263 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4265 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4304 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4330 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4344 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4369 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4400 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4418 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4419 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4421 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4437 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4438 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4442 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4446 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4456 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4467 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4472 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4478 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4485 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4491 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4505 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4538 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4541 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4567 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4586 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4599 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4626 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4633 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4634 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4645 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4669 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113349-4673 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113349-4676 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113349-4687 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113349-4691 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113349-4721 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113349-4762 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113349-4764 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113349-4766 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113349-4792 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113349-4815 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113349-4823 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4826 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4827 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4836 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4847 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4870 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4900 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-4907 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4951 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-4976 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-5015 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-5069 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-6744 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,65536> to <0,65546>
+20230730-113349-6745 00096 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113349-6747 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,65539> to <0,65551>
+20230730-113349-6748 00096 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113349-6748 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,65540> to <0,65552>
+20230730-113349-6749 00096 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113349-6859 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-6863 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-6896 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-6899 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-6903 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-6916 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-6916 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113349-7000 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-7062 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-7094 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-7188 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-7206 00096 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113349-7761 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,65821> to <0,65825>
+20230730-113349-7762 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,65822> to <0,65825>
+20230730-113408-2918 00096 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,101268>
+20230730-113408-2920 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,101268> to <0,101270>
+20230730-113409-9804 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,105356> to <0,105359>
+20230730-113409-9806 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,105359> to <0,105360>
+20230730-113413-1895 00096 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,113029>
+20230730-113413-1897 00096 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,113030>
+20230730-113413-1910 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,113029> to <0,113035>
+20230730-113413-1911 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,113030> to <0,113035>
+20230730-113413-1912 00096 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,113031> to <0,113035>

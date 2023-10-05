@@ -1,0 +1,594 @@
+20230730-113324-8212 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,2308> to <0,2310>
+20230730-113324-8214 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,2309> to <0,2310>
+20230730-113334-4387 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,27126> to <0,27128>
+20230730-113334-4389 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,27127> to <0,27129>
+20230730-113334-4400 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,27126> to <0,27138>
+20230730-113334-4403 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,27127> to <0,27140>
+20230730-113334-4407 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,27129> to <0,27142>
+20230730-113334-4410 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,27136> to <0,27145>
+20230730-113337-6081 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,34645> to <0,34645>
+20230730-113337-6081 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,34645> to <0,34645>
+20230730-113338-9778 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,37908> to <0,37911>
+20230730-113338-9779 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,37910> to <0,37911>
+20230730-113340-6436 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42368> to <0,42370>
+20230730-113342-9866 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,48838> to <0,48841>
+20230730-113342-9867 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,48840> to <0,48841>
+20230730-113347-0697 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,57492> to <0,57501>
+20230730-113347-0700 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,57493> to <0,57502>
+20230730-113347-0702 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,57495> to <0,57503>
+20230730-113347-0705 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,57498> to <0,57506>
+20230730-113347-2094 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113347-2107 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113350-0780 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113351-9154 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113351-9155 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113351-9156 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113351-9160 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113351-9160 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113351-9169 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113351-9170 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113351-9180 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113351-9187 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113351-9194 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113351-9195 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113351-9196 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113351-9198 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-0571 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1274 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1287 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1288 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1298 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1300 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1305 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1306 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1311 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1312 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1314 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1315 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1332 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1338 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1340 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1341 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1342 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1343 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1344 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1345 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1346 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1348 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1350 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1356 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1357 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1364 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1366 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1367 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1369 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1370 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1371 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1377 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1379 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1381 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1383 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1386 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1387 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1401 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1403 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1408 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1410 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1414 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1415 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1418 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1419 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1425 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1426 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1428 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1430 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1435 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1436 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1445 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1446 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1450 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1451 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1452 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1453 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1466 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1468 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1472 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1473 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1480 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1481 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1488 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1490 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1493 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1495 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1498 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1500 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1524 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1526 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1533 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1535 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1539 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1540 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1541 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1543 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1549 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1550 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1562 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1563 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1570 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1571 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1581 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1583 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1584 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1585 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1588 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1589 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1599 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1600 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1602 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1603 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1606 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1607 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1611 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1613 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1619 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1620 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1621 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1622 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1623 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1624 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1627 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1629 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1630 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1632 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1641 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1642 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1642 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1643 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1650 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1651 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1652 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1653 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1655 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1656 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1671 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1672 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1699 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1700 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1703 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1704 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1705 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1706 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1708 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1710 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1716 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1717 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1719 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1721 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1731 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1732 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1748 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1749 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1752 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1753 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1757 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1758 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1759 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1761 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1770 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1771 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1773 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1774 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1775 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1777 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1780 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1781 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113352-1789 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1790 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-1792 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1794 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1795 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1796 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1798 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1799 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1800 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1801 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1805 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1806 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1807 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1808 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1812 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1813 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1814 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1815 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1819 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1820 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1822 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1826 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1832 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-1846 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2025 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2028 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2029 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2031 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2033 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2037 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2038 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2045 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2049 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2054 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2055 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2056 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2059 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2061 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2062 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2064 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2065 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2066 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2067 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2069 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2071 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2076 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2077 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2078 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2078 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2079 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2080 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2098 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2099 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2106 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2108 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2126 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2128 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2140 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2141 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2144 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2145 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2147 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2148 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2151 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2152 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2153 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2153 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2155 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2156 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2160 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2161 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2168 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2170 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2172 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2173 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2177 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2177 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2179 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2180 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2185 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2186 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2190 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2191 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113352-2202 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2203 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2204 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2205 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2209 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2210 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2211 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2212 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2213 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2215 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2216 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2217 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2220 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2222 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2223 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2224 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2226 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2227 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2228 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2233 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2234 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2235 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2236 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2240 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2241 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2243 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2248 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2249 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2250 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2251 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2253 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2257 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2478 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2973 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2975 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2976 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2980 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2981 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2982 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2983 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2983 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2984 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2985 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2986 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2987 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2988 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2996 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-2997 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3003 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3010 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3017 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3108 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3117 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3118 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3121 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3123 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3127 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3128 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3131 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3132 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3138 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3139 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3143 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3144 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3145 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3146 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3147 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3147 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3508 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3509 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113352-3509 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113354-9765 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,76845> to <0,76847>
+20230730-113354-9766 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,76846> to <0,76847>
+20230730-113400-9630 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-8083 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-8089 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8089 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-8090 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8090 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8090 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8091 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8091 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8091 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8091 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8092 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8092 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8092 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8092 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8093 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8093 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-8093 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8094 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-8094 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8094 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8095 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8095 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8095 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8096 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8096 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8096 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8097 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8114 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-8115 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8115 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8115 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8116 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8116 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8116 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8116 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8117 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8117 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8117 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8118 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8118 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8121 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-8122 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8124 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8125 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-8126 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8126 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8126 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8127 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8127 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8128 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8128 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8129 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8131 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8132 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8132 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8132 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8132 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8133 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8133 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8134 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8134 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8134 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8134 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8135 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8135 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8135 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8135 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8136 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8136 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8136 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8137 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8137 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8137 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8138 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8138 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8138 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8138 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8139 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8139 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8139 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8139 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8140 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8140 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8140 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8140 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8141 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8141 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8141 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8141 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8142 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8142 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8142 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8142 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8143 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8143 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-8143 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8144 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8144 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8145 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8145 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8145 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8145 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8146 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8146 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8147 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8147 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8147 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8147 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8148 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8148 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8148 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8148 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8149 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8149 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8150 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8150 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-8150 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8151 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8151 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8151 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8151 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8152 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8152 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-8152 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8152 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113403-8153 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8154 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113403-8154 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8154 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8155 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8155 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8155 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8155 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8156 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8156 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8156 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8156 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8157 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8157 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8157 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8157 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8158 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8158 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8158 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8158 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8159 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8159 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8159 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8159 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8160 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8160 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8160 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8160 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8161 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8161 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8161 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8161 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8162 00056 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113403-8162 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113403-8162 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113403-8163 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113403-8163 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113403-8163 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113403-8164 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113403-8164 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113403-8164 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113403-8165 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113403-8165 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113403-8166 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113403-8166 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113403-8166 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113403-8167 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113403-8167 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113403-8167 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113403-8168 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113403-8168 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113403-8168 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113403-8169 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113403-8169 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113403-8169 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113403-8170 00056 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113403-8241 00056 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-9213 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88287> to <0,88290>
+20230730-113403-9215 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88287> to <0,88291>
+20230730-113403-9216 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88289> to <0,88291>
+20230730-113403-9217 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88290> to <0,88291>
+20230730-113403-9218 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88289> to <0,88291>
+20230730-113403-9219 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88290> to <0,88295>
+20230730-113403-9403 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88447> to <0,88448>
+20230730-113403-9404 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88447> to <0,88448>
+20230730-113403-9405 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88448> to <0,88449>
+20230730-113403-9406 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88448> to <0,88449>
+20230730-113403-9750 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88803> to <0,88804>
+20230730-113403-9765 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88820> to <0,88820>
+20230730-113404-0254 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,89338> to <0,89339>
+20230730-113404-0329 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,89420> to <0,89422>
+20230730-113404-0330 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,89421> to <0,89423>
+20230730-113404-0852 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,89956> to <0,89958>
+20230730-113404-0854 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,89957> to <0,89959>
+20230730-113404-0913 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90029> to <0,90029>
+20230730-113404-0914 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90029> to <0,90029>
+20230730-113404-1545 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90532> to <0,90541>
+20230730-113404-1546 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90532> to <0,90541>
+20230730-113404-1549 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90537> to <0,90542>
+20230730-113404-1549 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90537> to <0,90542>
+20230730-113404-1550 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90539> to <0,90542>
+20230730-113404-1551 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90539> to <0,90542>
+20230730-113404-1551 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90541> to <0,90542>
+20230730-113404-1552 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90541> to <0,90542>
+20230730-113404-1599 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90583> to <0,90592>
+20230730-113404-1625 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90622> to <0,90624>
+20230730-113404-1715 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90732> to <0,90737>
+20230730-113404-1717 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90734> to <0,90739>
+20230730-113404-1786 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90815> to <0,90820>
+20230730-113404-1786 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90815> to <0,90820>
+20230730-113404-1788 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90820> to <0,90821>
+20230730-113404-1790 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,90820> to <0,90821>
+20230730-113404-2701 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91656> to <0,91661>
+20230730-113404-2703 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91656> to <0,91661>
+20230730-113404-2705 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91657> to <0,91662>
+20230730-113404-2705 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91657> to <0,91662>
+20230730-113404-2707 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91658> to <0,91662>
+20230730-113404-2708 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91658> to <0,91662>
+20230730-113404-2709 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91660> to <0,91662>
+20230730-113404-2710 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91660> to <0,91662>
+20230730-113404-2714 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91661> to <0,91668>
+20230730-113404-2741 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91686> to <0,91690>
+20230730-113404-2744 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91687> to <0,91692>
+20230730-113404-3002 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91962> to <0,91968>
+20230730-113404-3003 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91964> to <0,91968>
+20230730-113404-3004 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91966> to <0,91970>
+20230730-113404-3006 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91967> to <0,91972>
+20230730-113404-3110 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92065> to <0,92068>
+20230730-113404-3111 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92065> to <0,92069>
+20230730-113404-3113 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92067> to <0,92069>
+20230730-113404-3114 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92068> to <0,92069>
+20230730-113404-3114 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92067> to <0,92069>
+20230730-113404-3119 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92068> to <0,92077>
+20230730-113404-3370 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92316> to <0,92320>
+20230730-113404-3371 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92316> to <0,92321>
+20230730-113404-3372 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92317> to <0,92321>
+20230730-113404-3372 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92317> to <0,92321>
+20230730-113404-3373 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92318> to <0,92321>
+20230730-113404-3374 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92318> to <0,92321>
+20230730-113404-3374 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92319> to <0,92321>
+20230730-113404-3376 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92319> to <0,92321>
+20230730-113404-3376 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92320> to <0,92321>
+20230730-113404-3377 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92320> to <0,92321>
+20230730-113404-3399 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92348> to <0,92355>
+20230730-113404-3400 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92349> to <0,92356>
+20230730-113404-3401 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92351> to <0,92358>
+20230730-113404-3403 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92352> to <0,92359>
+20230730-113404-3405 00056 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,92353> to <0,92361>

@@ -1,0 +1,720 @@
+20230730-113324-5368 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5373 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5374 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5375 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5376 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5377 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5378 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5378 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5379 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5379 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5380 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5380 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5381 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5381 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5381 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5382 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5383 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5383 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5383 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5383 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5384 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5384 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5384 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5384 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5385 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5385 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5386 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5386 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5387 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5387 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5387 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5387 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5388 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5389 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5389 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5389 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5390 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5390 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5392 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5392 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5392 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5392 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5393 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5394 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5394 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5395 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5478 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5479 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5479 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5480 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5480 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5480 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5480 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5481 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5481 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5482 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5482 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5483 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5483 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5483 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5483 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5483 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5484 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5484 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5485 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5485 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5486 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5486 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5486 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5487 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5487 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5487 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5487 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5487 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5487 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5488 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5488 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5489 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5489 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5489 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5489 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5490 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5490 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5491 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5491 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5492 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5492 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5492 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5492 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5493 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5493 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5493 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5493 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5493 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5494 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5494 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5494 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5494 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5494 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5495 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5495 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5495 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5495 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5495 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5496 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5496 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5497 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5497 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5497 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5497 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5498 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5498 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5499 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5499 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5500 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5500 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5500 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5501 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5501 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5502 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5502 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5503 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5503 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5503 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5503 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5505 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5505 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5506 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5506 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5506 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5507 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5507 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5508 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5508 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5508 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5508 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5508 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5509 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5509 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5510 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5510 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5511 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5512 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5512 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5512 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5513 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5513 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5514 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5514 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5515 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5515 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5516 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5516 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5517 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5517 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5518 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5599 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5599 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5600 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5600 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5601 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5601 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5602 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5602 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5603 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5603 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5604 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5604 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5605 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5605 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5606 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5606 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5607 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5607 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5608 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5608 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5609 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5609 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5610 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5610 00057 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113324-5610 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5611 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5611 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5612 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5612 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5613 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5613 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5614 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5614 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5615 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5615 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5616 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5616 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5617 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5617 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5618 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5618 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5619 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5619 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5620 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5620 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5621 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5628 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5629 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5630 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5630 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5631 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5631 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5633 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5634 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5635 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5635 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5636 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5636 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5637 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5637 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5678 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5679 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5679 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5680 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5680 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5681 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5683 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5684 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5686 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5687 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5687 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5688 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5688 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5689 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5691 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5692 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5692 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5693 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5693 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5694 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5696 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5697 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5699 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5700 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5700 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5701 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5703 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5703 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5704 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5704 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5707 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5707 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5708 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5708 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5709 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5709 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5798 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5799 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5800 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5800 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5803 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5803 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5806 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5806 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5808 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5809 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5811 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5812 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5814 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5815 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5817 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5818 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5820 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5821 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5823 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5824 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5826 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5827 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5827 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5828 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5829 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5829 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5830 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5830 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5831 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5831 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5832 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5832 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5833 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5833 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5834 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5834 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5835 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5835 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5835 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5836 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5836 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5837 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5838 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5878 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5881 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5881 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5884 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5884 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5888 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5888 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5889 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5889 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5890 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5890 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5891 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5891 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5892 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5892 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5893 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5893 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5894 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5894 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5895 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5895 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5896 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5896 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5897 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5897 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5898 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5898 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5899 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5899 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5900 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5900 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5901 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5901 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5902 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5902 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5903 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5903 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5904 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5904 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5905 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5905 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-5906 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,0> to <0,0>
+20230730-113324-5906 00057 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113324-6127 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113324-6129 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113324-6130 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113324-6131 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113324-6131 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113324-6131 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113324-6133 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113324-6133 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113324-6133 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113324-6239 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113324-6239 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113324-6278 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113331-6938 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113331-8062 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113331-8070 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113335-5606 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113335-6251 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113335-9701 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113338-4890 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,32865> to <0,32865>
+20230730-113338-4891 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,32865> to <0,32866>
+20230730-113338-4893 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,32866> to <0,32869>
+20230730-113339-1383 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,34568> to <0,34569>
+20230730-113339-1384 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,34568> to <0,34570>
+20230730-113344-6418 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,49369> to <0,49371>
+20230730-113344-6419 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,49370> to <0,49371>
+20230730-113346-5510 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113350-0696 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,60210> to <0,60210>
+20230730-113350-0697 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,60210> to <0,60210>
+20230730-113351-1155 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113351-4437 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113351-4995 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,63449> to <0,63452>
+20230730-113352-6591 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,66045> to <0,66045>
+20230730-113352-6591 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,66045> to <0,66045>
+20230730-113353-7170 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113357-2103 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,76715> to <0,76716>
+20230730-113357-2103 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,76715> to <0,76716>
+20230730-113357-2105 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,76716> to <0,76717>
+20230730-113357-2108 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,76716> to <0,76720>
+20230730-113357-2168 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,76771> to <0,76773>
+20230730-113357-2169 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,76771> to <0,76774>
+20230730-113357-2169 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,76773> to <0,76774>
+20230730-113357-2172 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,76773> to <0,76776>
+20230730-113358-3535 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,78790> to <0,78792>
+20230730-113358-3536 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,78791> to <0,78793>
+20230730-113359-2625 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,80814> to <0,80816>
+20230730-113359-2626 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,80815> to <0,80816>
+20230730-113401-0014 00057 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113404-6709 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,84338> to <0,84342>
+20230730-113404-6710 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,84339> to <0,84343>
+20230730-113404-6710 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,84340> to <0,84343>
+20230730-113404-6711 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,84342> to <0,84343>
+20230730-113405-4209 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,86360> to <0,86363>
+20230730-113405-4210 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,86362> to <0,86363>
+20230730-113405-4406 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-4428 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-4429 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-4429 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-4430 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-4430 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-4434 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-4435 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-4435 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-4437 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5281 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5291 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5293 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5297 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5299 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5307 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5308 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5337 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5338 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5342 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5344 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5348 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5349 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5359 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5360 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5361 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5362 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5372 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5373 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5392 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5394 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5395 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5396 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5401 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5402 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5403 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5404 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5405 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5407 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5410 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5412 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5413 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5415 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5416 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5418 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5420 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5421 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5457 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5459 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5460 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5462 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5467 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5468 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5470 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5471 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5472 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5473 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5473 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5476 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5479 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5479 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5480 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5480 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5481 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5482 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5483 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5483 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5485 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5486 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5487 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-5490 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-5492 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-5493 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-5494 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-5495 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-5497 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-5498 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-5498 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-5499 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-5500 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-5500 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-5502 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-5506 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5507 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5508 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5508 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5509 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5510 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5513 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5515 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-5518 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5519 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5530 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5531 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5532 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5533 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5534 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5535 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5537 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5538 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5539 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5541 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5542 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5543 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5544 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5545 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-5547 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5548 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5548 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5549 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5552 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5553 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5554 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5555 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5556 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5557 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5562 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5564 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5566 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5571 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5578 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5579 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5580 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5580 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5582 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5583 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5588 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5589 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5598 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5599 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5602 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5606 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5610 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5611 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-5625 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6193 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6199 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6201 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6204 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6206 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6212 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6215 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6216 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6225 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6227 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6228 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6229 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6242 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6243 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6249 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6250 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6256 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6258 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6262 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6264 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6273 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6274 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6274 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6275 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6280 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6282 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6301 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6302 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6312 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6313 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6315 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6316 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6318 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6320 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6321 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6323 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6326 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6327 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6334 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6335 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6352 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6354 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6355 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6356 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6357 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6359 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6367 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6369 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6377 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6378 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6382 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6384 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6398 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6400 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6408 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6410 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6420 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6422 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6429 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6430 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6431 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6432 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6441 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6442 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6449 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6450 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6451 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6452 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6452 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6453 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6464 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6465 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6481 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6483 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6492 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6492 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6493 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6494 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6495 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6496 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6498 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6499 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6500 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6501 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6508 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6509 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-6511 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-6512 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-6516 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-6518 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-6520 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-6521 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-6527 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-6528 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-6537 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-6538 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6540 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6541 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6542 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6543 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6544 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6546 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6547 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6548 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6568 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6569 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6571 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6573 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6581 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6582 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6582 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6583 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6592 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6595 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6596 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6600 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6601 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6611 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6613 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6614 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6616 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6617 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6618 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6622 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6623 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6626 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6627 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6631 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6632 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6633 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6634 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6641 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6642 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6648 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6649 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6650 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6652 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6655 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6657 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6658 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6685 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6687 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6695 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6696 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6696 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6698 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6702 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6703 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6704 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6705 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6706 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6707 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6709 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6710 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6720 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-6721 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6727 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113405-6728 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113405-6743 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6744 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6762 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6764 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6765 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6767 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6770 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6772 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6773 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6777 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6778 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6785 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6786 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6790 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6791 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6792 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6794 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113405-6810 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6811 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6813 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6814 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6816 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-6818 00057 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113411-9365 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,103903> to <0,103904>
+20230730-113416-2644 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,112996> to <0,112998>
+20230730-113416-2646 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,112997> to <0,112999>
+20230730-113417-4185 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,115780> to <0,115781>
+20230730-113417-4186 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,115781> to <0,115783>
+20230730-113417-8761 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,117006> to <0,117008>
+20230730-113417-8762 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,117007> to <0,117008>
+20230730-113420-0076 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,121320> to <0,121324>
+20230730-113420-0078 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,121322> to <0,121326>
+20230730-113420-0080 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,121323> to <0,121327>
+20230730-113420-0082 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,121324> to <0,121328>
+20230730-113421-3826 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,124212> to <0,124215>
+20230730-113421-3828 00057 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,124214> to <0,124216>

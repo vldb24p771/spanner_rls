@@ -1,0 +1,30 @@
+20230730-113327-1030 00135 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,8554>
+20230730-113327-1032 00135 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,8557>
+20230730-113339-2884 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,38020> to <0,38021>
+20230730-113350-0200 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,61180> to <0,61455>
+20230730-113350-0203 00135 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 7 fragments
+20230730-113350-0205 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,61181> to <0,61455>
+20230730-113350-0208 00135 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 6 fragments
+20230730-113350-0470 00135 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,61534>
+20230730-113350-0471 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,61534> to <0,61534>
+20230730-113350-0475 00135 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,61538>
+20230730-113350-0476 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,61538> to <0,61538>
+20230730-113350-0925 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,61933> to <0,61933>
+20230730-113357-5307 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,79543> to <0,79543>
+20230730-113401-8822 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,83317> to <0,84483>
+20230730-113401-8838 00135 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 25 fragments
+20230730-113401-8846 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,83318> to <0,84483>
+20230730-113401-8859 00135 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 25 fragments
+20230730-113401-8870 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,83318> to <0,84485>
+20230730-113401-8884 00135 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 25 fragments
+20230730-113401-8932 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,84510> to <0,84521>
+20230730-113402-3467 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,87271> to <0,87274>
+20230730-113402-3469 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,87274> to <0,87275>
+20230730-113402-3795 00135 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,87550>
+20230730-113402-3796 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,87550> to <0,87550>
+20230730-113402-4044 00135 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,87754>
+20230730-113402-4045 00135 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,87756>
+20230730-113402-4606 00135 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,88199>
+20230730-113402-4606 00135 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,88200>
+20230730-113402-4607 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,88199> to <0,88200>
+20230730-113402-4609 00135 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,88200> to <0,88201>

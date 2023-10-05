@@ -1,0 +1,204 @@
+20230730-113324-7398 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,1983>
+20230730-113324-7400 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,1983> to <0,1984>
+20230730-113324-7401 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,1984>
+20230730-113324-7403 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,1984> to <0,1985>
+20230730-113336-0489 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,31084> to <0,31085>
+20230730-113336-0490 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,31085> to <0,31086>
+20230730-113336-0491 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,31086> to <0,31086>
+20230730-113345-8808 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,55967>
+20230730-113347-0353 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,55969>
+20230730-113347-0383 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,57230> to <0,55969>
+20230730-113347-0388 00133 ! OnReadable      (udptransport.cc:580): Failed to reconstruct packet 1
+20230730-113347-0389 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 45000, got 54000
+20230730-113347-0389 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 63000
+20230730-113347-0389 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 72000
+20230730-113347-0389 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 81000
+20230730-113347-0390 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 90000
+20230730-113347-0390 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 99000
+20230730-113347-0390 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 108000
+20230730-113347-0390 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 117000
+20230730-113347-0390 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 126000
+20230730-113347-0390 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 135000
+20230730-113347-0391 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 144000
+20230730-113347-0391 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 153000
+20230730-113347-0391 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 162000
+20230730-113347-0391 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 171000
+20230730-113347-0391 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 180000
+20230730-113347-0391 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 189000
+20230730-113347-0391 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 198000
+20230730-113347-0392 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 207000
+20230730-113347-0392 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 216000
+20230730-113347-0392 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 225000
+20230730-113347-0392 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 234000
+20230730-113347-0393 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 243000
+20230730-113347-0393 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 252000
+20230730-113347-0393 00133 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 2; expected start 54000, got 261000
+20230730-113347-0396 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,55969>
+20230730-113347-0488 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0488 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0488 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0488 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0488 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 105
+20230730-113347-0488 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 106
+20230730-113347-0488 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 107
+20230730-113347-0489 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 108
+20230730-113347-0489 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 109
+20230730-113347-0489 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 109
+20230730-113347-0489 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 110
+20230730-113347-0489 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 109
+20230730-113347-0495 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,57232>
+20230730-113347-0496 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 109
+20230730-113347-0496 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 109
+20230730-113347-0497 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0497 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,57242>
+20230730-113347-0498 00133 ! OnReadable      (udptransport.cc:580): Failed to reconstruct packet 2
+20230730-113347-0500 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0501 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0501 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0502 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0502 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0502 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0502 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0502 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0502 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0502 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0503 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0503 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0503 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0503 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0503 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0503 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0503 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0504 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0504 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0504 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0504 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0504 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0504 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0504 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0505 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0505 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0505 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 105
+20230730-113347-0505 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 106
+20230730-113347-0505 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 106
+20230730-113347-0505 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 106
+20230730-113347-0506 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 106
+20230730-113347-0507 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 106
+20230730-113347-0507 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0508 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0508 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0508 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,57308>
+20230730-113347-0517 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0517 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,57309>
+20230730-113347-0521 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,57310>
+20230730-113347-0521 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,57311>
+20230730-113347-0524 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0528 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0529 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0530 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0533 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0543 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0548 00133 ! OnReadable      (udptransport.cc:580): Failed to reconstruct packet 3
+20230730-113347-0554 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0562 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0562 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0565 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0569 00133 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0825 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,57573>
+20230730-113350-2813 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,64790>
+20230730-113350-2815 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,64791>
+20230730-113354-3360 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,75696>
+20230730-113354-3361 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,75696> to <0,75696>
+20230730-113403-9509 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89019>
+20230730-113403-9662 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89271>
+20230730-113403-9664 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89272>
+20230730-113403-9706 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89328>
+20230730-113403-9752 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89398>
+20230730-113403-9754 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89400>
+20230730-113403-9771 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89427>
+20230730-113403-9773 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89430>
+20230730-113403-9882 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89604>
+20230730-113403-9883 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89605>
+20230730-113403-9884 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89606>
+20230730-113404-0085 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89924>
+20230730-113404-0087 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,89925>
+20230730-113404-0355 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,90291>
+20230730-113404-0357 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,90292>
+20230730-113404-0358 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,90294>
+20230730-113404-0700 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,90761>
+20230730-113404-0884 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,90959>
+20230730-113404-0886 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,90962>
+20230730-113404-0979 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91064>
+20230730-113404-0981 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91066>
+20230730-113404-0982 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91067>
+20230730-113404-0984 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91068>
+20230730-113404-1291 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91443>
+20230730-113404-1307 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91459>
+20230730-113404-1472 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91606>
+20230730-113404-1473 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91607>
+20230730-113404-1515 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91651>
+20230730-113404-1554 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91695>
+20230730-113404-1556 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91696>
+20230730-113404-1557 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91697>
+20230730-113404-1654 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91825>
+20230730-113404-1655 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91828>
+20230730-113404-1657 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,91829>
+20230730-113404-1900 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92147>
+20230730-113404-1903 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92150>
+20230730-113404-1905 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92151>
+20230730-113404-1909 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92153>
+20230730-113404-1997 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92252>
+20230730-113404-2000 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92253>
+20230730-113404-2002 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92254>
+20230730-113404-2003 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92255>
+20230730-113404-2005 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92256>
+20230730-113404-2258 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92516>
+20230730-113404-2259 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92517>
+20230730-113404-2260 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92518>
+20230730-113404-2262 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92519>
+20230730-113404-2264 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92520>
+20230730-113404-2267 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92521>
+20230730-113404-2486 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92734>
+20230730-113404-2489 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92736>
+20230730-113404-2492 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,92737>
+20230730-113404-2831 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93087>
+20230730-113404-2833 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93089>
+20230730-113404-2835 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93090>
+20230730-113404-2836 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93091>
+20230730-113404-2852 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93109>
+20230730-113404-2855 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93110>
+20230730-113404-2897 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93164>
+20230730-113404-2899 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93167>
+20230730-113404-2900 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93169>
+20230730-113404-2901 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93170>
+20230730-113404-2903 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93173>
+20230730-113404-3002 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93306>
+20230730-113404-3004 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93309>
+20230730-113404-3006 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93312>
+20230730-113404-3007 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93313>
+20230730-113404-3008 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93314>
+20230730-113404-3032 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93343>
+20230730-113404-3034 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93345>
+20230730-113404-3035 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93347>
+20230730-113404-3036 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93349>
+20230730-113404-3346 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93652>
+20230730-113404-3348 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93653>
+20230730-113404-3349 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93654>
+20230730-113404-3351 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93657>
+20230730-113404-3352 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93658>
+20230730-113404-3353 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93659>
+20230730-113404-3417 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93745>
+20230730-113404-3418 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93746>
+20230730-113404-3419 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,93748>
+20230730-113404-6123 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,88584> to <0,94613>
+20230730-113404-6176 00133 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 256 fragments
+20230730-113404-6211 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,88585> to <0,94613>
+20230730-113404-6244 00133 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 256 fragments
+20230730-113404-6277 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,88587> to <0,94613>
+20230730-113404-6306 00133 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 256 fragments
+20230730-113404-6332 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,88588> to <0,94613>
+20230730-113404-6358 00133 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 256 fragments
+20230730-113404-6531 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,94613> to <0,94682>
+20230730-113404-6532 00133 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113408-6493 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,104396> to <0,104398>
+20230730-113408-6494 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,104398> to <0,104399>

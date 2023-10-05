@@ -1,0 +1,49 @@
+20230730-113324-5380 00133 * StartViewChange (replica.cc:254):   [2] Starting view change for view 1
+20230730-113324-5602 00133 * HandleRequest   (replica.cc:410):   [2] Ignoring request due to abnormal status
+20230730-113324-5602 00133 * EnterView       (replica.cc:230):   [2] Entering new view 1
+20230730-113327-0587 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,7083>
+20230730-113327-0588 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,7084>
+20230730-113327-0591 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,7086>
+20230730-113327-0592 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,7087>
+20230730-113327-0594 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,7088>
+20230730-113327-1723 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,8159>
+20230730-113327-1725 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,8160>
+20230730-113327-1725 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,8161>
+20230730-113327-2366 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,8753>
+20230730-113327-2367 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <1,8753> to <1,8754>
+20230730-113327-2368 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,8755>
+20230730-113327-2369 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <1,8755> to <1,8755>
+20230730-113327-2370 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,8756>
+20230730-113327-2371 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <1,8756> to <1,8756>
+20230730-113327-2373 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,8759>
+20230730-113327-2374 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <1,8759> to <1,8759>
+20230730-113327-2375 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,8760>
+20230730-113327-2376 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,8761>
+20230730-113327-2377 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <1,8760> to <1,8761>
+20230730-113327-2377 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <1,8761> to <1,8762>
+20230730-113327-3193 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,9523>
+20230730-113327-3195 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,9525>
+20230730-113327-3196 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,9526>
+20230730-113327-3199 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,9527>
+20230730-113327-3200 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,9528>
+20230730-113327-3202 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,9531>
+20230730-113327-3204 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,9534>
+20230730-113327-3229 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <1,9558> to <1,9560>
+20230730-113327-4860 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,11021>
+20230730-113327-4861 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <1,11021> to <1,11022>
+20230730-113327-4863 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,11023>
+20230730-113327-4863 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <1,11023> to <1,11023>
+20230730-113327-4864 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,11024>
+20230730-113327-4865 00133 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <1,11024> to <1,11024>
+20230730-113328-2319 00133 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <1,16497>
+20230730-113328-2329 00133 PANIC CommitUpTo      (replica.cc:131):   [2] Did not find operation 16499 in log
+20230730-113328-2331 00133 ! _Panic          (message.cc:173):   /tapir-master/store/strongstore/server(+0x127d0) [0x55b6e88227d0]
+20230730-113328-2331 00133 ! _Panic          (message.cc:173):   /tapir-master/store/strongstore/server(+0x16095) [0x55b6e8826095]
+20230730-113328-2331 00133 ! _Panic          (message.cc:173):   /tapir-master/store/strongstore/server(+0x19784) [0x55b6e8829784]
+20230730-113328-2331 00133 ! _Panic          (message.cc:173):   /tapir-master/store/strongstore/server(+0x1a075) [0x55b6e882a075]
+20230730-113328-2332 00133 ! _Panic          (message.cc:173):   /tapir-master/store/strongstore/server(+0xda96) [0x55b6e881da96]
+20230730-113328-2332 00133 ! _Panic          (message.cc:173):   /usr/local/lib/libevent-2.1.so.7(+0x21f88) [0x7f2abad98f88]
+20230730-113328-2332 00133 ! _Panic          (message.cc:173):   /usr/local/lib/libevent-2.1.so.7(event_base_loop+0x53f) [0x7f2abad998ef]
+20230730-113328-2332 00133 ! _Panic          (message.cc:173):   /tapir-master/store/strongstore/server(+0xb19e) [0x55b6e881b19e]
+20230730-113328-2332 00133 ! _Panic          (message.cc:173):   /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7f2ab997dc87]
+20230730-113328-2333 00133 ! _Panic          (message.cc:173):   /tapir-master/store/strongstore/server(+0xb4aa) [0x55b6e881b4aa]

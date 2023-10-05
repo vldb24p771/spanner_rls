@@ -1,0 +1,743 @@
+20230730-160713-8338 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,123> to <0,143>
+20230730-160716-0658 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,6224>
+20230730-160716-9956 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,14539> to <0,14540>
+20230730-160717-3621 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,17171>
+20230730-160717-3622 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,17171> to <0,17172>
+20230730-160717-3623 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,17172>
+20230730-160717-3624 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,17172> to <0,17173>
+20230730-160717-3626 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,17175>
+20230730-160717-3627 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,17176>
+20230730-160717-3627 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,17175> to <0,17176>
+20230730-160717-3629 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,17176> to <0,17178>
+20230730-160717-3630 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,17178>
+20230730-160717-3631 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,17178> to <0,17178>
+20230730-160717-3632 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,17179>
+20230730-160717-3634 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,17179> to <0,17179>
+20230730-160718-1595 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,23878> to <0,23879>
+20230730-160718-6384 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,28468> to <0,28469>
+20230730-160718-6385 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,28469> to <0,28471>
+20230730-160718-6387 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,28472> to <0,28472>
+20230730-160718-6389 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,28474> to <0,28475>
+20230730-160718-6390 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,28475> to <0,28476>
+20230730-160718-8243 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,30245> to <0,30248>
+20230730-160718-8246 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,30246> to <0,30249>
+20230730-160718-8247 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,30248> to <0,30251>
+20230730-160718-8250 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,30249> to <0,30254>
+20230730-160718-8775 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,30758>
+20230730-160718-8777 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,30759>
+20230730-160719-6186 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,37192> to <0,37194>
+20230730-160719-6187 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,37194> to <0,37194>
+20230730-160719-8322 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,39094>
+20230730-160719-8324 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,39095>
+20230730-160720-2317 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,42599>
+20230730-160720-2329 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,42601>
+20230730-160720-2331 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,42602>
+20230730-160720-2332 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,42604>
+20230730-160720-2333 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,42605>
+20230730-160720-2900 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,43047> to <0,43118>
+20230730-160720-2901 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 3 fragments
+20230730-160720-2908 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,43118> to <0,43121>
+20230730-160720-2910 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,43120> to <0,43125>
+20230730-160720-2912 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,43125> to <0,43126>
+20230730-160720-2914 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,43126> to <0,43127>
+20230730-160720-4418 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,44217> to <0,44219>
+20230730-160720-4419 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,44218> to <0,44219>
+20230730-160720-5856 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,45369> to <0,45370>
+20230730-160720-5857 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,45370> to <0,45371>
+20230730-160720-5859 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,45371> to <0,45372>
+20230730-160720-5860 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,45372> to <0,45374>
+20230730-160721-2136 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,50579>
+20230730-160721-2137 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,50579> to <0,50579>
+20230730-160721-2139 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,50583>
+20230730-160721-2140 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,50583> to <0,50584>
+20230730-160721-2141 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,50584>
+20230730-160721-2142 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,50584> to <0,50584>
+20230730-160721-2144 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,50587>
+20230730-160721-2145 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,50587> to <0,50588>
+20230730-160721-2240 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,50674>
+20230730-160721-2242 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,50675>
+20230730-160721-2246 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,50676>
+20230730-160721-7348 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,54476> to <0,54476>
+20230730-160721-7350 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,54477> to <0,54478>
+20230730-160722-1365 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,57320> to <0,57321>
+20230730-160722-1366 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,57321> to <0,57322>
+20230730-160722-7170 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,62563>
+20230730-160722-7172 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,62564>
+20230730-160722-7174 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,62567>
+20230730-160722-8916 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,63958> to <0,63959>
+20230730-160722-8917 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,63959> to <0,63961>
+20230730-160722-8919 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,63961> to <0,63963>
+20230730-160722-8919 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,63962> to <0,63964>
+20230730-160722-8920 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,63964> to <0,63964>
+20230730-160723-1807 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,65551>
+20230730-160723-1809 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,65559>
+20230730-160723-1811 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,65563>
+20230730-160723-1812 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,65567>
+20230730-160723-1813 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,65569>
+20230730-160723-1814 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,65570>
+20230730-160723-1815 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,65571>
+20230730-160723-1815 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,65572>
+20230730-160723-1816 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,65573>
+20230730-160723-1825 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,65572> to <0,65573>
+20230730-160723-1826 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,65573> to <0,65573>
+20230730-160723-2114 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,65780> to <0,65780>
+20230730-160723-3489 03639 ! releaseForWrite (lockserver.cc:353): [-1217961163876361585] Releasing unheld write lock: zSEUMpfOt9IeZTqY70cRm7NNw8413zfe5UoxHrjLucAOAtB9Veb3VEiPFpbH3GU1
+20230730-160723-3490 03639 ! releaseForWrite (lockserver.cc:353): [-1217961163876361585] Releasing unheld write lock: YZMWkHc9IddotVsjygh8IH3PzSrFQFltSg3K2h7Lj9zJNhMJ9EuO0Ig46SBywGfs
+20230730-160723-3710 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,67027> to <0,67027>
+20230730-160723-5277 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,68402> to <0,68403>
+20230730-160723-5279 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,68404> to <0,68405>
+20230730-160723-9891 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,72477> to <0,72498>
+20230730-160723-9892 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160723-9893 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,72478> to <0,72500>
+20230730-160723-9894 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160723-9894 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,72480> to <0,72501>
+20230730-160723-9895 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160723-9896 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,72481> to <0,72502>
+20230730-160723-9896 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160723-9897 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,72483> to <0,72502>
+20230730-160723-9897 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160723-9898 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,72490> to <0,72502>
+20230730-160723-9898 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,72493> to <0,72502>
+20230730-160723-9899 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,72496> to <0,72502>
+20230730-160724-0829 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,73345>
+20230730-160724-2498 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,74862> to <0,74863>
+20230730-160724-2499 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,74863> to <0,74865>
+20230730-160724-2500 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,74865> to <0,74865>
+20230730-160724-2501 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,74866> to <0,74866>
+20230730-160724-2503 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,74867> to <0,74868>
+20230730-160724-2504 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,74868> to <0,74868>
+20230730-160724-2506 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,74869> to <0,74870>
+20230730-160724-2507 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,74870> to <0,74870>
+20230730-160724-2508 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,74871> to <0,74871>
+20230730-160724-8453 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,80102> to <0,80102>
+20230730-160724-8455 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,80103> to <0,80103>
+20230730-160724-8456 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,80104> to <0,80104>
+20230730-160724-8459 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,80105> to <0,80105>
+20230730-160724-8460 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,80106> to <0,80107>
+20230730-160724-8462 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,80107> to <0,80108>
+20230730-160724-8462 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160725-5283 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,85753> to <0,85754>
+20230730-160725-5285 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,85754> to <0,85755>
+20230730-160725-7542 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,87752> to <0,87754>
+20230730-160725-8078 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,88179>
+20230730-160725-8082 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,88180>
+20230730-160725-8083 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,88181>
+20230730-160725-8601 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,88639> to <0,88639>
+20230730-160726-6022 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,94564>
+20230730-160726-6026 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,94565>
+20230730-160726-6031 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,94567>
+20230730-160726-6032 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,94568>
+20230730-160726-6052 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,94587>
+20230730-160726-6057 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,94588>
+20230730-160726-6058 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,94589>
+20230730-160727-0114 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,98380>
+20230730-160727-0115 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,98381>
+20230730-160727-0116 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,98380> to <0,98381>
+20230730-160727-0117 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,98381> to <0,98381>
+20230730-160727-0119 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,98383>
+20230730-160727-0120 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,98383> to <0,98385>
+20230730-160727-0121 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,98385>
+20230730-160727-0122 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,98385> to <0,98387>
+20230730-160727-0123 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,98389>
+20230730-160727-0125 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,98390>
+20230730-160727-0125 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,98389> to <0,98390>
+20230730-160727-0126 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,98390> to <0,98392>
+20230730-160727-0127 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,98392>
+20230730-160727-0130 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,98392> to <0,98395>
+20230730-160727-1083 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,99325> to <0,99325>
+20230730-160727-1085 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,99326> to <0,99326>
+20230730-160727-1087 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,99327> to <0,99327>
+20230730-160727-1093 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,99330> to <0,99330>
+20230730-160727-2321 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,100527>
+20230730-160727-2322 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,100527> to <0,100527>
+20230730-160727-2330 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,100537>
+20230730-160727-2331 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,100537> to <0,100539>
+20230730-160727-2335 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,100544>
+20230730-160727-2335 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,100544> to <0,100545>
+20230730-160727-2336 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,100545>
+20230730-160727-2337 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,100546>
+20230730-160727-2338 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,100545> to <0,100546>
+20230730-160727-2338 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,100546> to <0,100546>
+20230730-160727-2339 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,100547>
+20230730-160727-2340 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,100547> to <0,100547>
+20230730-160727-3701 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,101851> to <0,101852>
+20230730-160727-3703 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,101853> to <0,101854>
+20230730-160727-3704 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,101854> to <0,101855>
+20230730-160727-3705 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,101855> to <0,101856>
+20230730-160727-3706 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,101856> to <0,101856>
+20230730-160727-3708 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,101857> to <0,101857>
+20230730-160727-6360 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,104159>
+20230730-160727-6362 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,104161>
+20230730-160727-6365 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,104162>
+20230730-160727-6366 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,104163>
+20230730-160727-6368 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,104164>
+20230730-160727-6370 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,104165>
+20230730-160728-4731 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,110870> to <0,110896>
+20230730-160728-4732 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160728-5343 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,111462>
+20230730-160728-5345 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,111464>
+20230730-160728-5348 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,111466>
+20230730-160728-5350 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,111467>
+20230730-160728-5471 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,111462> to <0,111535>
+20230730-160728-5472 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 4 fragments
+20230730-160728-5474 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,111464> to <0,111535>
+20230730-160728-5475 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 4 fragments
+20230730-160728-5477 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,111466> to <0,111535>
+20230730-160728-5478 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 4 fragments
+20230730-160728-5480 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,111467> to <0,111537>
+20230730-160728-5481 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 4 fragments
+20230730-160728-5482 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,111469> to <0,111539>
+20230730-160728-5483 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 4 fragments
+20230730-160728-5485 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,111470> to <0,111540>
+20230730-160728-5486 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 4 fragments
+20230730-160729-1339 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,116128> to <0,116154>
+20230730-160729-1457 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160729-1458 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,116129> to <0,116156>
+20230730-160729-1459 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160729-1460 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,116131> to <0,116157>
+20230730-160729-1460 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160729-1499 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,116259>
+20230730-160729-1500 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,116273>
+20230730-160729-1501 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,116274>
+20230730-160729-1970 03639 ! releaseForWrite (lockserver.cc:353): [6722045831872700065] Releasing unheld write lock: iaQnFq0S737S00gWUwv1MYyHy7REEocqXMR94MZX5YhJUaPbKn14PjhjhfN6gC6J
+20230730-160729-1970 03639 ! releaseForWrite (lockserver.cc:353): [6722045831872700065] Releasing unheld write lock: zTAT3jY8q0YWap9fnkkcidTgycgwQPqh4RwKRlF0etQfuLW2FgeMHS4M2eXRMHEz
+20230730-160729-1970 03639 ! releaseForRead  (lockserver.cc:293): [6722045831872700065] Releasing unheld read lock: By580xdv2VGkeztAYqBbLCNjtZFkQ9OkiWfwv2E2DaD2vpVVsdruL4MMEviAP2Wl
+20230730-160729-2018 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,116668>
+20230730-160729-2031 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,116723>
+20230730-160729-2032 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,116727>
+20230730-160729-2033 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,116728>
+20230730-160729-2035 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,116732>
+20230730-160729-2036 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,116733>
+20230730-160729-2036 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,116734>
+20230730-160729-6912 03639 ! releaseForWrite (lockserver.cc:353): [5406911380383040058] Releasing unheld write lock: vNJtevRYNbXkEM0PH4E4mUUumShPOEC4H9A7yW2rc9ge3ws32prX8KXQk6TrsKSE
+20230730-160729-6913 03639 ! releaseForWrite (lockserver.cc:353): [5406911380383040058] Releasing unheld write lock: zTAT3jY8q0YWap9fnkkcidTgycgwQPqh4RwKRlF0etQfuLW2FgeMHS4M2eXRMHEz
+20230730-160729-6913 03639 ! releaseForRead  (lockserver.cc:293): [5406911380383040058] Releasing unheld read lock: HLPtEStPXmFwRfqyE2ncrAwh6iKpHXnsIi7lP12sgc2zUOqdl4ituNhIfmb3dJ1v
+20230730-160729-9104 03639 ! releaseForRead  (lockserver.cc:293): [3400766752676270050] Releasing unheld read lock: zTAT3jY8q0YWap9fnkkcidTgycgwQPqh4RwKRlF0etQfuLW2FgeMHS4M2eXRMHEz
+20230730-160729-9104 03639 ! releaseForRead  (lockserver.cc:293): [3400766752676270050] Releasing unheld read lock: 9UVmx9vQu4nI9QKQn4jLyJnWMyH9t8Z11a8gCQeEZAPxf4nkXnCyNvWsWikumhrL
+20230730-160730-0162 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,123386>
+20230730-160731-1076 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,131099>
+20230730-160731-1077 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,131104>
+20230730-160731-1078 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,131091> to <0,131105>
+20230730-160731-1166 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,131107>
+20230730-160731-1167 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,131099> to <0,131109>
+20230730-160731-1168 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,131104> to <0,131111>
+20230730-160731-1168 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,131111>
+20230730-160731-1169 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,131107> to <0,131112>
+20230730-160731-1170 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,131116>
+20230730-160731-1170 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,131117>
+20230730-160731-1172 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,131111> to <0,131117>
+20230730-160731-1172 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,131116> to <0,131117>
+20230730-160731-1173 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,131117> to <0,131117>
+20230730-160731-9436 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,137877>
+20230730-160731-9438 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,137878>
+20230730-160732-1488 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,139367>
+20230730-160732-1489 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,139367> to <0,139367>
+20230730-160732-1493 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,139368>
+20230730-160732-1493 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,139368> to <0,139368>
+20230730-160732-1495 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,139369>
+20230730-160732-1496 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,139369> to <0,139370>
+20230730-160732-1497 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,139370>
+20230730-160732-1498 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,139370> to <0,139371>
+20230730-160732-1499 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,139371>
+20230730-160732-1500 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,139371> to <0,139372>
+20230730-160732-1500 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,139372>
+20230730-160732-1502 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,139372> to <0,139373>
+20230730-160732-1503 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,139374>
+20230730-160732-1503 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,139374> to <0,139374>
+20230730-160732-1508 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,139375> to <0,139375>
+20230730-160732-2089 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,139783>
+20230730-160732-2098 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,139809>
+20230730-160732-2100 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,139813>
+20230730-160732-3495 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,140848> to <0,140868>
+20230730-160732-3496 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160732-3497 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,140853> to <0,140869>
+20230730-160732-3497 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160732-3498 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,140855> to <0,140870>
+20230730-160732-3499 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160732-4259 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,141506> to <0,141519>
+20230730-160732-4261 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,141509> to <0,141519>
+20230730-160732-4262 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,141511> to <0,141519>
+20230730-160732-4263 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,141512> to <0,141519>
+20230730-160732-4266 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,141519> to <0,141519>
+20230730-160733-9693 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,153789>
+20230730-160733-9706 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,153847>
+20230730-160733-9708 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,153849>
+20230730-160733-9717 03639 ! OnReadable      (udptransport.cc:573): Fragments out of order for packet 88; expected start 9000, got 18000
+20230730-160733-9717 03639 ! OnReadable      (udptransport.cc:573): Fragments out of order for packet 88; expected start 18000, got 27000
+20230730-160733-9734 03639 ! OnReadable      (udptransport.cc:565): Failed to reconstruct packet 88
+20230730-160734-8629 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,161530> to <0,161532>
+20230730-160734-8631 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,161532> to <0,161533>
+20230730-160734-9448 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,162284>
+20230730-160734-9450 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,162285>
+20230730-160734-9451 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,162287>
+20230730-160734-9453 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,162288>
+20230730-160735-3998 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,166634> to <0,166635>
+20230730-160735-4000 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,166635> to <0,166635>
+20230730-160735-4002 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,166636> to <0,166638>
+20230730-160735-4004 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,166639> to <0,166642>
+20230730-160735-4005 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,166641> to <0,166643>
+20230730-160735-4007 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,166642> to <0,166645>
+20230730-160735-4008 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,166644> to <0,166646>
+20230730-160735-4010 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,166646> to <0,166650>
+20230730-160735-4011 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,166648> to <0,166653>
+20230730-160735-4013 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,166650> to <0,166653>
+20230730-160736-5560 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,175568> to <0,175569>
+20230730-160736-5561 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,175569> to <0,175569>
+20230730-160736-9782 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,179477> to <0,179478>
+20230730-160736-9783 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,179478> to <0,179479>
+20230730-160737-0653 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,180316> to <0,180317>
+20230730-160738-2379 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,190775> to <0,190777>
+20230730-160738-7407 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,194961>
+20230730-160738-7408 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,194962>
+20230730-160738-7409 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,194961> to <0,194962>
+20230730-160738-7411 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,194962> to <0,194962>
+20230730-160739-0942 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,198130>
+20230730-160739-0943 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,198130> to <0,198131>
+20230730-160739-0944 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,198131>
+20230730-160739-0945 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,198131> to <0,198131>
+20230730-160739-0946 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,198132>
+20230730-160739-0947 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,198132> to <0,198132>
+20230730-160739-0948 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,198134>
+20230730-160739-1011 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,198185> to <0,198186>
+20230730-160739-5492 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,202140> to <0,202214>
+20230730-160739-5493 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 4 fragments
+20230730-160739-5503 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,202214> to <0,202220>
+20230730-160739-5504 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,202216> to <0,202220>
+20230730-160739-5505 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,202217> to <0,202220>
+20230730-160739-5507 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,202218> to <0,202220>
+20230730-160739-5507 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,202220> to <0,202220>
+20230730-160739-9382 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,205657>
+20230730-160739-9383 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,205657> to <0,205658>
+20230730-160739-9384 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,205659>
+20230730-160739-9385 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,205659> to <0,205660>
+20230730-160739-9386 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,205660>
+20230730-160739-9387 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,205660> to <0,205660>
+20230730-160739-9389 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,205664>
+20230730-160739-9390 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,205664> to <0,205664>
+20230730-160739-9391 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,205665>
+20230730-160739-9392 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,205666>
+20230730-160739-9393 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,205665> to <0,205666>
+20230730-160739-9393 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,205667>
+20230730-160739-9394 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,205666> to <0,205667>
+20230730-160739-9395 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,205668>
+20230730-160739-9396 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,205667> to <0,205669>
+20230730-160739-9397 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,205669>
+20230730-160739-9398 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,205668> to <0,205670>
+20230730-160739-9399 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,205670>
+20230730-160739-9399 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,205669> to <0,205670>
+20230730-160739-9400 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,205670> to <0,205671>
+20230730-160739-9409 03639 ! OnReadable      (udptransport.cc:573): Fragments out of order for packet a4; expected start 0, got 9000
+20230730-160739-9411 03639 ! OnReadable      (udptransport.cc:565): Failed to reconstruct packet a4
+20230730-160740-1446 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,207601> to <0,207602>
+20230730-160740-1447 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,207602> to <0,207603>
+20230730-160740-1449 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,207603> to <0,207605>
+20230730-160740-1450 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,207605> to <0,207607>
+20230730-160740-1452 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,207606> to <0,207610>
+20230730-160740-1454 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,207608> to <0,207612>
+20230730-160740-1455 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,207609> to <0,207614>
+20230730-160740-1456 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,207610> to <0,207614>
+20230730-160740-1457 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,207613> to <0,207614>
+20230730-160740-4623 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,210528> to <0,210528>
+20230730-160740-4624 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,210529> to <0,210529>
+20230730-160740-4628 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,210532> to <0,210532>
+20230730-160740-4630 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,210533> to <0,210534>
+20230730-160740-4632 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,210534> to <0,210535>
+20230730-160740-4632 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,210535> to <0,210535>
+20230730-160740-4779 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,210643> to <0,210656>
+20230730-160740-4780 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,210648> to <0,210660>
+20230730-160740-4781 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,210650> to <0,210661>
+20230730-160741-0417 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,215092> to <0,215137>
+20230730-160741-0418 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160741-0427 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,215140> to <0,215144>
+20230730-160741-0428 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,215141> to <0,215144>
+20230730-160741-0429 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,215142> to <0,215144>
+20230730-160741-0429 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,215143> to <0,215144>
+20230730-160741-0430 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,215144> to <0,215144>
+20230730-160741-4897 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,218990> to <0,219021>
+20230730-160741-4897 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160741-4898 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,218995> to <0,219021>
+20230730-160741-4899 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160741-4900 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,218999> to <0,219023>
+20230730-160741-4900 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160741-4901 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,219000> to <0,219023>
+20230730-160741-4902 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160741-4909 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,219023> to <0,219032>
+20230730-160741-4912 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,219025> to <0,219035>
+20230730-160741-4914 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,219026> to <0,219037>
+20230730-160741-4916 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,219032> to <0,219037>
+20230730-160741-5191 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,219258>
+20230730-160741-5192 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,219259>
+20230730-160741-5194 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,219261>
+20230730-160741-5195 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,219262>
+20230730-160741-5196 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,219263>
+20230730-160741-5198 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,219264>
+20230730-160741-5199 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,219265>
+20230730-160741-5201 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,219266>
+20230730-160741-5204 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,219268>
+20230730-160741-8950 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,222593>
+20230730-160741-8951 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,222593> to <0,222594>
+20230730-160741-8952 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,222595>
+20230730-160741-8953 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,222595> to <0,222596>
+20230730-160741-8954 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,222596>
+20230730-160741-8955 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,222596> to <0,222596>
+20230730-160741-8956 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,222597>
+20230730-160741-8957 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,222597> to <0,222597>
+20230730-160741-8960 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,222598>
+20230730-160741-8961 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,222599>
+20230730-160741-8962 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,222598> to <0,222600>
+20230730-160741-8963 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,222600>
+20230730-160741-8963 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,222599> to <0,222601>
+20230730-160741-8963 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,222601>
+20230730-160741-8965 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,222600> to <0,222601>
+20230730-160741-8966 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,222601> to <0,222601>
+20230730-160741-9647 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,223199>
+20230730-160741-9648 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,223199> to <0,223199>
+20230730-160741-9654 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,223200>
+20230730-160741-9655 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,223200> to <0,223200>
+20230730-160741-9658 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,223202>
+20230730-160741-9659 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,223202> to <0,223202>
+20230730-160741-9667 03639 ! OnReadable      (udptransport.cc:573): Fragments out of order for packet da; expected start 0, got 9000
+20230730-160742-2099 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,225332>
+20230730-160742-2100 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,225333>
+20230730-160742-3094 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,226235>
+20230730-160742-3097 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,226237>
+20230730-160742-3099 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,226242>
+20230730-160742-3100 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,226244>
+20230730-160742-3109 03639 ! OnReadable      (udptransport.cc:565): Failed to reconstruct packet da
+20230730-160742-5205 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,228153>
+20230730-160742-5214 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,228193>
+20230730-160742-5215 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,228197>
+20230730-160743-1089 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,233259> to <0,233296>
+20230730-160743-1089 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 3 fragments
+20230730-160743-1098 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,233296> to <0,233304>
+20230730-160743-1099 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,233300> to <0,233306>
+20230730-160743-1101 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,233303> to <0,233308>
+20230730-160743-4537 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,236290> to <0,236290>
+20230730-160743-4539 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,236291> to <0,236292>
+20230730-160743-4541 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,236300> to <0,236301>
+20230730-160743-4542 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,236302> to <0,236303>
+20230730-160743-4544 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,236303> to <0,236306>
+20230730-160743-4545 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,236306> to <0,236307>
+20230730-160743-4546 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,236307> to <0,236307>
+20230730-160743-7933 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,239272>
+20230730-160743-7936 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,239272> to <0,239272>
+20230730-160743-7938 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,239276>
+20230730-160743-7939 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,239276> to <0,239276>
+20230730-160743-7944 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,239277>
+20230730-160743-7945 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,239277> to <0,239277>
+20230730-160743-7947 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,239278>
+20230730-160743-7947 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,239278> to <0,239278>
+20230730-160743-7954 03639 ! OnReadable      (udptransport.cc:573): Fragments out of order for packet f0; expected start 0, got 9000
+20230730-160743-7958 03639 ! OnReadable      (udptransport.cc:565): Failed to reconstruct packet f0
+20230730-160743-8735 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,239889> to <0,239890>
+20230730-160744-0659 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241421>
+20230730-160744-0661 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241422>
+20230730-160744-0661 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241421> to <0,241422>
+20230730-160744-0662 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241423>
+20230730-160744-0663 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241422> to <0,241423>
+20230730-160744-0663 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241423> to <0,241424>
+20230730-160744-0664 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241425>
+20230730-160744-0665 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241425> to <0,241426>
+20230730-160744-0666 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241426>
+20230730-160744-0667 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241429>
+20230730-160744-0668 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241426> to <0,241429>
+20230730-160744-0669 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241429> to <0,241429>
+20230730-160744-0670 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241431>
+20230730-160744-0670 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241431> to <0,241431>
+20230730-160744-0671 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241432>
+20230730-160744-0672 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241432> to <0,241432>
+20230730-160744-0673 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241433>
+20230730-160744-0933 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241678> to <0,241679>
+20230730-160744-0934 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241679> to <0,241680>
+20230730-160744-0936 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241680> to <0,241681>
+20230730-160744-0937 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241681> to <0,241681>
+20230730-160744-1112 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241895>
+20230730-160744-1113 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241896>
+20230730-160744-1114 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241895> to <0,241896>
+20230730-160744-1114 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241897>
+20230730-160744-1115 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241898>
+20230730-160744-1116 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241896> to <0,241898>
+20230730-160744-1118 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241897> to <0,241898>
+20230730-160744-1119 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241898> to <0,241898>
+20230730-160744-1120 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,241899>
+20230730-160744-1123 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241899> to <0,241899>
+20230730-160744-1123 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160744-1125 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,241900> to <0,241900>
+20230730-160744-1125 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160744-2149 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,242804>
+20230730-160744-2151 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,242805>
+20230730-160744-2152 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,242807>
+20230730-160744-2154 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,242809>
+20230730-160744-2155 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,242811>
+20230730-160744-2158 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,242818>
+20230730-160744-2176 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,242804> to <0,242820>
+20230730-160744-2177 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160744-2178 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,242805> to <0,242820>
+20230730-160744-2178 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160744-2179 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,242807> to <0,242820>
+20230730-160744-2180 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160744-2181 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,242809> to <0,242820>
+20230730-160744-2181 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160744-2182 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,242811> to <0,242820>
+20230730-160744-2182 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160744-2183 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,242818> to <0,242820>
+20230730-160744-2184 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,242820> to <0,242820>
+20230730-160744-3017 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,243523> to <0,243524>
+20230730-160744-3017 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160744-3018 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,243524> to <0,243525>
+20230730-160744-3019 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160744-5006 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,245166>
+20230730-160744-5012 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,245167>
+20230730-160744-5013 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,245168>
+20230730-160744-5014 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,245169>
+20230730-160744-7312 03639 ! releaseForWrite (lockserver.cc:353): [-473339761346521493] Releasing unheld write lock: CB52aAp3llJtCewGF13MDSpY7O1j6vGQAS77tRV4P9cIvcGtPU6KzWy6ePCcC2Kt
+20230730-160744-7313 03639 ! releaseForWrite (lockserver.cc:353): [-473339761346521493] Releasing unheld write lock: ol3JfhhEiI6Limn5sV5xKghu7xvXM6XRxt4CKOhQrcycVoz2vshy2XTQCz6cP0Yr
+20230730-160744-7313 03639 ! releaseForRead  (lockserver.cc:293): [-473339761346521493] Releasing unheld read lock: qC73XAdKF9qve6T5BZfwW9exH8yyUrpMOaSklnaWqNvp3rNLvMyG2NUpFxaO4UA3
+20230730-160744-9396 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,248844> to <0,248845>
+20230730-160744-9397 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,248846> to <0,248846>
+20230730-160745-0424 03639 ! releaseForWrite (lockserver.cc:353): [6689970629986490058] Releasing unheld write lock: CB52aAp3llJtCewGF13MDSpY7O1j6vGQAS77tRV4P9cIvcGtPU6KzWy6ePCcC2Kt
+20230730-160745-1898 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,250880>
+20230730-160745-1899 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,250880> to <0,250881>
+20230730-160745-1899 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,250881>
+20230730-160745-1900 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,250881> to <0,250881>
+20230730-160745-6782 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,254396>
+20230730-160745-6784 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,254396> to <0,254398>
+20230730-160745-6785 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,254399>
+20230730-160745-6786 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,254399> to <0,254399>
+20230730-160745-6789 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,254403>
+20230730-160745-6790 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,254403> to <0,254403>
+20230730-160745-6792 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,254405>
+20230730-160745-6794 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,254405> to <0,254405>
+20230730-160746-1182 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,257788> to <0,257798>
+20230730-160746-1184 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,257790> to <0,257800>
+20230730-160746-1185 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,257792> to <0,257802>
+20230730-160746-1187 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,257799> to <0,257803>
+20230730-160746-1190 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,257802> to <0,257807>
+20230730-160746-1192 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,257803> to <0,257808>
+20230730-160746-2566 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,258907>
+20230730-160746-3345 03639 ! releaseForWrite (lockserver.cc:353): [-5012841758132731468] Releasing unheld write lock: hnIY08RoHamH4wYSBAJk9qjHBFL1eMpqUAPx59iH2GghGCnvkhXUdDRfBklidDmQ
+20230730-160746-3346 03639 ! releaseForWrite (lockserver.cc:353): [-5012841758132731468] Releasing unheld write lock: zTAT3jY8q0YWap9fnkkcidTgycgwQPqh4RwKRlF0etQfuLW2FgeMHS4M2eXRMHEz
+20230730-160746-3346 03639 ! releaseForRead  (lockserver.cc:293): [-5012841758132731468] Releasing unheld read lock: 5d5NsEC43SnHJh8YC3D4eJQUxjB1oNpsk4cdVxXi4bNhQDIDmxbwSHCinn2ojj8V
+20230730-160746-3346 03639 ! releaseForRead  (lockserver.cc:293): [-5012841758132731468] Releasing unheld read lock: suRIlUA8ZGQ4zYFM91AldTwbZ4oj53dvrGWspHMNTqAYB1hjwtbY4luv7RPGEQww
+20230730-160746-3824 03639 ! releaseForWrite (lockserver.cc:353): [7785929724605490141] Releasing unheld write lock: wp7NQcTZNuv9yy56IDfdtbSBOq3CqY3oKfPOR4WewL27CiaKbNDMHshLMQYamuKC
+20230730-160746-3824 03639 ! releaseForWrite (lockserver.cc:353): [7785929724605490141] Releasing unheld write lock: W5dMu2QQbRPElzEWOYLlBDc74yCobe63LVhOGxLnAMLvFI8wgeZnB8od5fFCvMgR
+20230730-160746-5820 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,261811>
+20230730-160746-5922 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,261812>
+20230730-160746-5933 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,261811> to <0,261812>
+20230730-160746-5933 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,261812> to <0,261812>
+20230730-160746-5955 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,261837>
+20230730-160746-5958 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,261838>
+20230730-160746-9151 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,262144>
+20230730-160746-9207 03639 ! releaseForWrite (lockserver.cc:353): [3124448454063420151] Releasing unheld write lock: zTAT3jY8q0YWap9fnkkcidTgycgwQPqh4RwKRlF0etQfuLW2FgeMHS4M2eXRMHEz
+20230730-160746-9208 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,262176>
+20230730-160746-9209 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,262164> to <0,262176>
+20230730-160746-9392 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,262167> to <0,262176>
+20230730-160746-9393 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,262172> to <0,262176>
+20230730-160746-9393 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,262173> to <0,262176>
+20230730-160746-9394 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,262174> to <0,262176>
+20230730-160746-9394 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,262175> to <0,262176>
+20230730-160746-9394 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,262176> to <0,262176>
+20230730-160746-9462 03639 ! releaseForWrite (lockserver.cc:353): [4967095340999190130] Releasing unheld write lock: i3wbOWEUcRrXoVy9vEDfYtdxPxBNc43Q1j0HiyyR1zAtzwBRe8Yeh7kGMt2U7mse
+20230730-160746-9462 03639 ! releaseForRead  (lockserver.cc:293): [4967095340999190130] Releasing unheld read lock: kDzOLAyLGCSnkrF07HBjiMHa4x2EDrzr3b2B845BeyJ7BbgZrfTgcCCSmzNrRXFd
+20230730-160746-9462 03639 ! releaseForRead  (lockserver.cc:293): [4967095340999190130] Releasing unheld read lock: zTAT3jY8q0YWap9fnkkcidTgycgwQPqh4RwKRlF0etQfuLW2FgeMHS4M2eXRMHEz
+20230730-160746-9463 03639 ! releaseForWrite (lockserver.cc:353): [-7276688816087031482] Releasing unheld write lock: zTAT3jY8q0YWap9fnkkcidTgycgwQPqh4RwKRlF0etQfuLW2FgeMHS4M2eXRMHEz
+20230730-160747-1758 03639 ! releaseForRead  (lockserver.cc:293): [-5930363796719491451] Releasing unheld read lock: zTAT3jY8q0YWap9fnkkcidTgycgwQPqh4RwKRlF0etQfuLW2FgeMHS4M2eXRMHEz
+20230730-160747-3377 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,265135>
+20230730-160747-3379 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,265136>
+20230730-160747-3380 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,265137>
+20230730-160747-3381 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,265138>
+20230730-160747-3384 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,265141>
+20230730-160747-3387 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,265144>
+20230730-160747-6871 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,268304> to <0,268305>
+20230730-160747-6873 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,268306> to <0,268306>
+20230730-160747-6876 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,268307> to <0,268309>
+20230730-160747-6878 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,268308> to <0,268309>
+20230730-160747-6879 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,268309> to <0,268309>
+20230730-160748-0210 03639 ! releaseForWrite (lockserver.cc:353): [5244333039033160187] Releasing unheld write lock: IKf0r6VJOTzScIIkzbqVN5W4TvRKudptImcNbYplztwMPpBWdMryS9a2GZvtMFe7
+20230730-160748-0210 03639 ! releaseForWrite (lockserver.cc:353): [5244333039033160187] Releasing unheld write lock: iaQnFq0S737S00gWUwv1MYyHy7REEocqXMR94MZX5YhJUaPbKn14PjhjhfN6gC6J
+20230730-160748-0211 03639 ! releaseForRead  (lockserver.cc:293): [5244333039033160187] Releasing unheld read lock: 82CTPV2uWckWO6VbOzQTlGE19xA8SfWvIgudJKhKQgLReHaJ78R4rjiFJO51V443
+20230730-160748-0211 03639 ! releaseForRead  (lockserver.cc:293): [5244333039033160187] Releasing unheld read lock: P1ofP9ZJMAXWqArTOwOot4qvE5YyxtpEmd6nUHI3m6aLVnWiLyAALFomlHqnRcXR
+20230730-160748-0329 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,270987> to <0,270988>
+20230730-160748-0331 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,270988> to <0,270989>
+20230730-160748-2454 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,272970> to <0,272970>
+20230730-160748-2456 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,272971> to <0,272971>
+20230730-160748-3375 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,273737> to <0,273785>
+20230730-160748-3376 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 3 fragments
+20230730-160748-3387 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,273788> to <0,273791>
+20230730-160748-3388 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,273789> to <0,273792>
+20230730-160748-3389 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,273791> to <0,273792>
+20230730-160748-3393 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,273792> to <0,273794>
+20230730-160749-3839 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,281827>
+20230730-160749-3840 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,281827> to <0,281828>
+20230730-160749-3842 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,281830>
+20230730-160749-3844 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,281831>
+20230730-160749-3845 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,281830> to <0,281831>
+20230730-160749-3846 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,281831> to <0,281834>
+20230730-160749-3849 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,281838>
+20230730-160749-3850 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,281839>
+20230730-160749-3851 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,281840>
+20230730-160749-3851 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,281838> to <0,281840>
+20230730-160749-3852 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,281839> to <0,281840>
+20230730-160749-3854 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,281840> to <0,281840>
+20230730-160749-3861 03639 ! OnReadable      (udptransport.cc:573): Fragments out of order for packet 14b; expected start 0, got 9000
+20230730-160749-3863 03639 ! OnReadable      (udptransport.cc:565): Failed to reconstruct packet 14b
+20230730-160749-5020 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,282879>
+20230730-160749-5021 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,282880>
+20230730-160749-5025 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,282883>
+20230730-160749-5027 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,282884>
+20230730-160749-5028 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,282885>
+20230730-160749-5030 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,282886>
+20230730-160749-5031 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,282887>
+20230730-160749-5033 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,282888>
+20230730-160749-5042 03639 ! OnReadable      (udptransport.cc:573): Fragments out of order for packet 152; expected start 0, got 9000
+20230730-160749-5044 03639 ! OnReadable      (udptransport.cc:565): Failed to reconstruct packet 152
+20230730-160750-0892 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,288028>
+20230730-160750-0893 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,288029>
+20230730-160750-0894 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,288030>
+20230730-160750-0895 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,288031>
+20230730-160750-0899 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,288032>
+20230730-160750-0901 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,288033>
+20230730-160750-5764 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,292376> to <0,292410>
+20230730-160750-5765 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160750-5776 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,292410> to <0,292413>
+20230730-160750-5777 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,292412> to <0,292413>
+20230730-160751-3142 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,298693> to <0,298730>
+20230730-160751-3143 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160751-3144 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,298703> to <0,298732>
+20230730-160751-3145 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160751-3146 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,298704> to <0,298732>
+20230730-160751-3146 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160751-3148 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,298705> to <0,298733>
+20230730-160751-3149 03639 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160751-8168 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,303030>
+20230730-160751-8169 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,303030> to <0,303030>
+20230730-160751-8171 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,303031>
+20230730-160751-8173 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,303031> to <0,303033>
+20230730-160751-8175 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,303035>
+20230730-160751-8176 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,303035> to <0,303035>
+20230730-160751-8176 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,303036>
+20230730-160751-8177 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,303036> to <0,303036>
+20230730-160751-8179 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,303038>
+20230730-160751-8180 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,303038> to <0,303038>
+20230730-160752-1195 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,305501> to <0,305506>
+20230730-160752-1196 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,305503> to <0,305508>
+20230730-160752-1197 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,305504> to <0,305509>
+20230730-160752-1198 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,305506> to <0,305509>
+20230730-160752-4314 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,308002> to <0,308002>
+20230730-160752-4321 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,308009> to <0,308009>
+20230730-160752-9035 03639 ! releaseForWrite (lockserver.cc:353): [-5858011395487111451] Releasing unheld write lock: WAsQb4lnKNZdvXpc07247tKmKxnvJwzAa2YI5pcvsEu26upfBKQJdt6qhJ6bZNe1
+20230730-160752-9035 03639 ! releaseForWrite (lockserver.cc:353): [-5858011395487111451] Releasing unheld write lock: X3hfDj4nDhjHedrR9B4nUKbgri4SpPih4NVEIDBRGnNDOA8BHEJ2siV71Hm0xJXE
+20230730-160752-9036 03639 ! releaseForWrite (lockserver.cc:353): [-5858011395487111451] Releasing unheld write lock: qnfbTm5Rmoj0iN6hhcPhzXur9ZCPjcO7AALXcR6yAsEvT9X6hCFGGE6k3VfxSB4a
+20230730-160752-9147 03639 ! releaseForWrite (lockserver.cc:353): [3125280080551380186] Releasing unheld write lock: qnfbTm5Rmoj0iN6hhcPhzXur9ZCPjcO7AALXcR6yAsEvT9X6hCFGGE6k3VfxSB4a
+20230730-160752-9147 03639 ! releaseForRead  (lockserver.cc:293): [3125280080551380186] Releasing unheld read lock: DCYlTOo0sbkP40xCA9S8Uy4soKVuHgZyhPVuJULwfFfmWlgxtDorHrqsXakM2lWV
+20230730-160752-9277 03639 ! releaseForWrite (lockserver.cc:353): [-8107024439364701416] Releasing unheld write lock: fqulG620dFX0pFhtanzXyRh3k7ljltZ0pggGhfAhjYPD0zz5JTgUdKI8YnrDslEv
+20230730-160752-9277 03639 ! releaseForWrite (lockserver.cc:353): [-8107024439364701416] Releasing unheld write lock: J50Rplg8COrz4eEPKgk3p1Ihsdd0KuO0iGn50d7h4Gv3W7QtmfKrHxB6GMXAeveu
+20230730-160752-9277 03639 ! releaseForWrite (lockserver.cc:353): [-8107024439364701416] Releasing unheld write lock: qnfbTm5Rmoj0iN6hhcPhzXur9ZCPjcO7AALXcR6yAsEvT9X6hCFGGE6k3VfxSB4a
+20230730-160752-9278 03639 ! releaseForRead  (lockserver.cc:293): [-8107024439364701416] Releasing unheld read lock: d0ZVmffMlxYLCrIv8c75YUNp6CoaBmxLcIpwYmLPGIC1aPBYHajUIDB0hAVPrfTJ
+20230730-160753-0403 03639 ! releaseForWrite (lockserver.cc:353): [-2856198753874841462] Releasing unheld write lock: CB52aAp3llJtCewGF13MDSpY7O1j6vGQAS77tRV4P9cIvcGtPU6KzWy6ePCcC2Kt
+20230730-160754-1604 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,319144>
+20230730-160754-1612 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,319187>
+20230730-160754-1613 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,319189>
+20230730-160754-1614 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,319192>
+20230730-160754-1615 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,319193>
+20230730-160754-4266 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,321570> to <0,321572>
+20230730-160754-4841 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,322228>
+20230730-160754-4842 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,322229>
+20230730-160754-4844 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,322230>
+20230730-160754-4847 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,322232>
+20230730-160754-4849 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,322233>
+20230730-160754-5857 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,323314>
+20230730-160754-5859 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,323315>
+20230730-160754-5860 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,323317>
+20230730-160754-5862 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,323318>
+20230730-160754-5864 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,323320>
+20230730-160754-5865 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,323322>
+20230730-160754-7960 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,325486> to <0,325487>
+20230730-160754-7962 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,325487> to <0,325488>
+20230730-160754-8342 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,325858> to <0,325858>
+20230730-160754-8764 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,326239>
+20230730-160754-8766 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,326239> to <0,326240>
+20230730-160754-8767 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,326241>
+20230730-160754-8768 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,326241> to <0,326242>
+20230730-160754-9161 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,326599>
+20230730-160754-9162 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,326599> to <0,326600>
+20230730-160754-9162 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,326600>
+20230730-160754-9163 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,326600> to <0,326600>
+20230730-160754-9418 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,326837> to <0,326838>
+20230730-160754-9420 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,326839> to <0,326840>
+20230730-160754-9421 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,326840> to <0,326841>
+20230730-160754-9470 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,326899>
+20230730-160754-9472 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,326899> to <0,326899>
+20230730-160754-9518 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,326954> to <0,326954>
+20230730-160754-9519 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,326955> to <0,326956>
+20230730-160754-9520 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,326956> to <0,326959>
+20230730-160754-9570 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327017> to <0,327017>
+20230730-160754-9572 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327018> to <0,327020>
+20230730-160754-9614 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,327071>
+20230730-160754-9615 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327071> to <0,327073>
+20230730-160754-9616 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,327073>
+20230730-160754-9617 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327073> to <0,327074>
+20230730-160754-9640 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327102> to <0,327102>
+20230730-160754-9657 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327120> to <0,327121>
+20230730-160754-9659 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327121> to <0,327122>
+20230730-160754-9660 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327122> to <0,327122>
+20230730-160754-9698 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327170> to <0,327171>
+20230730-160754-9699 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327171> to <0,327173>
+20230730-160754-9700 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327173> to <0,327175>
+20230730-160754-9712 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327185> to <0,327186>
+20230730-160754-9712 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327186> to <0,327187>
+20230730-160754-9713 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327187> to <0,327188>
+20230730-160754-9714 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327188> to <0,327190>
+20230730-160754-9724 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327198> to <0,327199>
+20230730-160754-9725 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327199> to <0,327200>
+20230730-160754-9726 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327200> to <0,327202>
+20230730-160754-9871 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327378> to <0,327379>
+20230730-160754-9873 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327380> to <0,327382>
+20230730-160754-9926 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327442> to <0,327443>
+20230730-160754-9927 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327443> to <0,327444>
+20230730-160754-9994 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327525> to <0,327525>
+20230730-160755-0004 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,327539>
+20230730-160755-0051 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327595> to <0,327596>
+20230730-160755-0053 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327596> to <0,327599>
+20230730-160755-0056 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327599> to <0,327602>
+20230730-160755-0168 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,327764>
+20230730-160755-0170 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,327765>
+20230730-160755-0172 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327764> to <0,327767>
+20230730-160755-0174 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327765> to <0,327767>
+20230730-160755-0182 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,327776>
+20230730-160755-0184 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,327777>
+20230730-160755-0185 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,327778>
+20230730-160755-0186 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,327779>
+20230730-160755-0187 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327776> to <0,327780>
+20230730-160755-0188 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,327780>
+20230730-160755-0189 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327777> to <0,327780>
+20230730-160755-0190 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,327781>
+20230730-160755-0192 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327778> to <0,327781>
+20230730-160755-0193 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,327779> to <0,327781>
+20230730-160755-0464 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,328168>
+20230730-160755-0465 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,328169>
+20230730-160755-0466 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328168> to <0,328169>
+20230730-160755-0468 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328169> to <0,328172>
+20230730-160755-0580 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,328331>
+20230730-160755-0581 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328331> to <0,328331>
+20230730-160755-0592 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,328346>
+20230730-160755-0592 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,328347>
+20230730-160755-0624 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328388> to <0,328389>
+20230730-160755-0626 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328389> to <0,328391>
+20230730-160755-0627 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328390> to <0,328393>
+20230730-160755-0644 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,328416>
+20230730-160755-0645 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328416> to <0,328417>
+20230730-160755-0646 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,328417>
+20230730-160755-0648 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328417> to <0,328417>
+20230730-160755-0685 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328468> to <0,328469>
+20230730-160755-0686 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328469> to <0,328472>
+20230730-160755-0725 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,328525>
+20230730-160755-0726 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328525> to <0,328526>
+20230730-160755-0726 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,328526>
+20230730-160755-0729 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328526> to <0,328527>
+20230730-160755-0741 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328543> to <0,328543>
+20230730-160755-0742 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,328544> to <0,328545>
+20230730-160755-1775 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,329427> to <0,329429>
+20230730-160755-1777 03639 * HandleRequestStateTransfer (replica.cc:727):   [1] Sending state transfer from <0,329429> to <0,329430>
+20230730-160755-2342 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,329983>
+20230730-160755-2343 03639 * RequestStateTransfer (replica.cc:212):   [1] Requesting state transfer: <0,329984>

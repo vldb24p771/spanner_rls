@@ -1,0 +1,8 @@
+20230730-113347-1502 00093 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,58142>
+20230730-113347-1505 00093 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,58143>
+20230730-113408-3006 00093 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,99935> to <0,99935>
+20230730-113408-3008 00093 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,99936> to <0,99936>
+20230730-113412-4109 00093 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,110095>
+20230730-113412-4111 00093 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,110096>
+20230730-113412-9689 00093 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,111015> to <0,111017>
+20230730-113412-9691 00093 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,111017> to <0,111018>

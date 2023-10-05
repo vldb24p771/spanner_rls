@@ -1,0 +1,36 @@
+20230730-113327-1031 00174 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,8554> to <0,8554>
+20230730-113327-1032 00174 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,8557> to <0,8559>
+20230730-113339-2884 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,38020>
+20230730-113349-3886 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,61180>
+20230730-113350-0201 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,61181>
+20230730-113350-0469 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,61534>
+20230730-113350-0471 00174 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,61534> to <0,61535>
+20230730-113350-0474 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,61538>
+20230730-113350-0477 00174 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,61538> to <0,61539>
+20230730-113350-0924 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,61933>
+20230730-113357-5306 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,79543>
+20230730-113359-6065 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,83317>
+20230730-113401-8823 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,83318>
+20230730-113401-8844 00174 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 3; expected start 171000, got 180000
+20230730-113401-8844 00174 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 3; expected start 171000, got 189000
+20230730-113401-8844 00174 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 3; expected start 171000, got 198000
+20230730-113401-8844 00174 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 3; expected start 171000, got 207000
+20230730-113401-8844 00174 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 3; expected start 171000, got 216000
+20230730-113401-8846 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,83318>
+20230730-113401-8860 00174 ! OnReadable      (udptransport.cc:580): Failed to reconstruct packet 3
+20230730-113401-8924 00174 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 3; expected start 171000, got 180000
+20230730-113401-8925 00174 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 3; expected start 180000, got 189000
+20230730-113401-8925 00174 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 3; expected start 180000, got 198000
+20230730-113401-8925 00174 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 3; expected start 180000, got 207000
+20230730-113401-8925 00174 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet 3; expected start 180000, got 216000
+20230730-113401-8931 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,84510>
+20230730-113402-3466 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,87271>
+20230730-113402-3468 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,87274>
+20230730-113402-3795 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,87550>
+20230730-113402-3796 00174 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,87550> to <0,87550>
+20230730-113402-4045 00174 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,87754> to <0,87755>
+20230730-113402-4047 00174 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,87756> to <0,87757>
+20230730-113402-4606 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,88199>
+20230730-113402-4607 00174 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,88199> to <0,88200>
+20230730-113402-4608 00174 * RequestStateTransfer (replica.cc:217):   [2] Requesting state transfer: <0,88200>
+20230730-113402-4609 00174 * HandleRequestStateTransfer (replica.cc:753):   [2] Sending state transfer from <0,88200> to <0,88200>

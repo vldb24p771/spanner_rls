@@ -1,0 +1,112 @@
+20230730-113324-7398 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,1983>
+20230730-113324-7400 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,1983> to <0,1984>
+20230730-113324-7401 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,1984>
+20230730-113324-7403 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,1984> to <0,1985>
+20230730-113336-0474 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,31084>
+20230730-113336-0475 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,31085>
+20230730-113336-0476 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,31086>
+20230730-113346-9917 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0352 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0353 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0354 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0355 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 105
+20230730-113347-0355 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 106
+20230730-113347-0356 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 107
+20230730-113347-0356 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 108
+20230730-113347-0357 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 109
+20230730-113347-0358 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 109
+20230730-113347-0359 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 110
+20230730-113347-0363 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,57230>
+20230730-113347-0397 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 109
+20230730-113347-0398 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,55969> to <0,57232>
+20230730-113347-0410 00094 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 30 fragments
+20230730-113347-0417 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 109
+20230730-113347-0418 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 109
+20230730-113347-0420 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0452 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0461 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0462 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0463 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0464 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0465 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0465 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0467 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0469 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0470 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0470 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0471 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0472 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0474 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0475 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0475 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0483 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0483 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0484 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0484 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0486 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0487 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0488 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0489 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0491 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0492 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0493 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 105
+20230730-113347-0493 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 106
+20230730-113347-0495 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 106
+20230730-113347-0495 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 106
+20230730-113347-0496 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,57232> to <0,57301>
+20230730-113347-0497 00094 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113347-0498 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 106
+20230730-113347-0498 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,57242> to <0,57302>
+20230730-113347-0499 00094 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113347-0500 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 106
+20230730-113347-0501 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0502 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0503 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0508 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,57308> to <0,57308>
+20230730-113347-0517 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113347-0518 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,57309> to <0,57309>
+20230730-113347-0521 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,57310> to <0,57311>
+20230730-113347-0522 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,57311> to <0,57311>
+20230730-113347-0523 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0528 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0529 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0530 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113347-0532 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113347-0543 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0552 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0562 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0562 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0565 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0569 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113347-0826 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,57573> to <0,57574>
+20230730-113350-2814 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,64790> to <0,64791>
+20230730-113350-2815 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,64791> to <0,64791>
+20230730-113354-3360 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,75696>
+20230730-113354-3361 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,75696> to <0,75696>
+20230730-113403-9117 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,88584>
+20230730-113404-6125 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,88585>
+20230730-113404-6128 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,88587>
+20230730-113404-6130 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,88588>
+20230730-113404-6526 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 54000, got 63000
+20230730-113404-6527 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 54000, got 72000
+20230730-113404-6527 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 81000
+20230730-113404-6527 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 90000
+20230730-113404-6527 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 99000
+20230730-113404-6527 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 108000
+20230730-113404-6527 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 117000
+20230730-113404-6528 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 126000
+20230730-113404-6528 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 135000
+20230730-113404-6528 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 144000
+20230730-113404-6528 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 153000
+20230730-113404-6528 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 162000
+20230730-113404-6528 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 171000
+20230730-113404-6528 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 180000
+20230730-113404-6528 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 189000
+20230730-113404-6529 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 198000
+20230730-113404-6529 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 207000
+20230730-113404-6529 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 216000
+20230730-113404-6529 00094 ! OnReadable      (udptransport.cc:588): Fragments out of order for packet b; expected start 63000, got 234000
+20230730-113404-6530 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,94613>
+20230730-113404-6536 00094 ! OnReadable      (udptransport.cc:580): Failed to reconstruct packet b
+20230730-113408-6492 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,104396>
+20230730-113408-6494 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,104398>

@@ -1,0 +1,45 @@
+20230730-113317-9862 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113318-0101 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113318-8588 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113324-6008 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113324-6020 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 104
+20230730-113324-6030 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113324-6040 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113324-6050 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113324-6060 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113324-6071 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113324-6087 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113324-6090 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113324-6093 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 103
+20230730-113324-6108 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113324-6110 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113324-6121 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113324-6123 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 102
+20230730-113324-6131 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113324-6140 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113338-6380 00094 * RequestStateTransfer (replica.cc:217):   [1] Requesting state transfer: <0,38532>
+20230730-113348-7286 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,63978> to <0,63980>
+20230730-113348-7287 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,63980> to <0,63981>
+20230730-113357-5874 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,83897> to <0,83898>
+20230730-113357-5875 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,83898> to <0,83901>
+20230730-113357-5876 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,83899> to <0,83901>
+20230730-113401-9413 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,90260> to <0,90260>
+20230730-113401-9416 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,90262> to <0,90264>
+20230730-113405-9147 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-9160 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-9162 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-9164 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-9168 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-9175 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-9178 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-9282 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-9287 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-9302 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113405-9311 00094 ! Prepare         (lockstore.cc:86):  Lots of prepared transactions! 101
+20230730-113407-9171 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,100252> to <0,100253>
+20230730-113407-9174 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,100254> to <0,100255>
+20230730-113412-2745 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,111097> to <0,111098>
+20230730-113412-2747 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,111098> to <0,111099>
+20230730-113412-3845 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,111462> to <0,111467>
+20230730-113412-3847 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,111463> to <0,111468>
+20230730-113412-3849 00094 * HandleRequestStateTransfer (replica.cc:753):   [1] Sending state transfer from <0,111464> to <0,111469>

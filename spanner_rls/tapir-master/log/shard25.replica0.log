@@ -1,0 +1,464 @@
+20230730-113329-5734 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,19337> to <0,19337>
+20230730-113329-5743 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,19337> to <0,19344>
+20230730-113329-5745 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,19338> to <0,19344>
+20230730-113330-9628 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,25367> to <0,25371>
+20230730-113330-9682 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,25396> to <0,25398>
+20230730-113330-9684 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,25396> to <0,25399>
+20230730-113330-9687 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,25397> to <0,25399>
+20230730-113330-9687 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,25397> to <0,25399>
+20230730-113331-0484 00054 ! releaseForRead  (lockserver.cc:566): [3149422731082370073] state is wrong in lock: 65oGJQghNVJmx9EkEOqIS57Q20cR5JjNg3sRo5lrFaxiuCi2QIJIn7nqJ1qhB6Yk
+20230730-113331-2049 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,26372> to <0,26375>
+20230730-113331-2051 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,26374> to <0,26375>
+20230730-113331-2054 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,26375> to <0,26377>
+20230730-113331-2466 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,26555> to <0,26558>
+20230730-113331-7853 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,28819> to <0,28821>
+20230730-113332-3438 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,31561> to <0,31565>
+20230730-113332-3440 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,31563> to <0,31566>
+20230730-113332-3442 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,31565> to <0,31568>
+20230730-113332-5014 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,32467> to <0,32467>
+20230730-113332-5015 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,32467> to <0,32467>
+20230730-113334-8286 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40537> to <0,40545>
+20230730-113334-8291 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40537> to <0,40545>
+20230730-113334-8298 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40538> to <0,40546>
+20230730-113334-8300 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40538> to <0,40546>
+20230730-113334-8302 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40539> to <0,40546>
+20230730-113334-8302 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40539> to <0,40546>
+20230730-113334-8304 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40540> to <0,40546>
+20230730-113334-8305 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40540> to <0,40546>
+20230730-113334-8306 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40541> to <0,40546>
+20230730-113334-8306 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40541> to <0,40546>
+20230730-113334-8307 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40542> to <0,40546>
+20230730-113334-8312 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40542> to <0,40546>
+20230730-113334-8313 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40543> to <0,40546>
+20230730-113334-8314 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40543> to <0,40546>
+20230730-113334-8317 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40544> to <0,40546>
+20230730-113334-8319 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40544> to <0,40546>
+20230730-113334-8320 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40545> to <0,40546>
+20230730-113334-8321 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,40545> to <0,40546>
+20230730-113335-1553 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42074> to <0,42076>
+20230730-113335-1556 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42074> to <0,42076>
+20230730-113335-1559 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42076> to <0,42077>
+20230730-113335-1559 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42076> to <0,42077>
+20230730-113335-1711 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42161> to <0,42162>
+20230730-113335-1714 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42162> to <0,42165>
+20230730-113335-2312 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42486> to <0,42489>
+20230730-113335-2314 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42486> to <0,42490>
+20230730-113335-2315 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42488> to <0,42490>
+20230730-113335-2316 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42489> to <0,42490>
+20230730-113335-2317 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42488> to <0,42490>
+20230730-113335-2320 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,42489> to <0,42493>
+20230730-113335-3370 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,43035> to <0,43041>
+20230730-113335-5565 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,44229> to <0,44229>
+20230730-113335-5565 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,44229> to <0,44229>
+20230730-113335-6646 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,44900> to <0,44911>
+20230730-113335-6647 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,44901> to <0,44912>
+20230730-113335-7696 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,45457> to <0,45461>
+20230730-113335-7697 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,45457> to <0,45461>
+20230730-113335-7699 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,45459> to <0,45462>
+20230730-113335-7700 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,45459> to <0,45462>
+20230730-113335-8154 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,45706> to <0,45709>
+20230730-113335-8155 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,45706> to <0,45709>
+20230730-113335-8157 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,45708> to <0,45710>
+20230730-113335-8158 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,45708> to <0,45710>
+20230730-113335-8160 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,45709> to <0,45710>
+20230730-113335-8160 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,45709> to <0,45710>
+20230730-113335-8360 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,45838> to <0,45841>
+20230730-113335-8361 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,45841> to <0,45842>
+20230730-113335-9296 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,46435> to <0,46438>
+20230730-113335-9297 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,46437> to <0,46438>
+20230730-113336-2520 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,48244> to <0,48247>
+20230730-113336-2522 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,48246> to <0,48250>
+20230730-113336-3650 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,48951> to <0,48954>
+20230730-113336-3652 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,48952> to <0,48956>
+20230730-113336-3655 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,48953> to <0,48959>
+20230730-113338-0192 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,57497> to <0,57499>
+20230730-113338-0195 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,57498> to <0,57499>
+20230730-113338-1989 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,58293> to <0,58296>
+20230730-113338-1991 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,58295> to <0,58296>
+20230730-113339-6069 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,64203> to <0,64205>
+20230730-113339-7018 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,64440> to <0,64442>
+20230730-113339-8458 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,64877> to <0,64878>
+20230730-113339-8460 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,64877> to <0,64879>
+20230730-113339-8995 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,65100> to <0,65114>
+20230730-113340-1025 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,65593> to <0,65636>
+20230730-113340-1030 00054 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113340-3348 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,67162> to <0,67164>
+20230730-113340-3350 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,67163> to <0,67165>
+20230730-113340-9185 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,68996> to <0,68999>
+20230730-113340-9187 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,68997> to <0,68999>
+20230730-113341-0738 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,69665> to <0,69665>
+20230730-113341-0740 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,69665> to <0,69666>
+20230730-113342-0922 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,74157> to <0,74159>
+20230730-113342-0923 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,74157> to <0,74159>
+20230730-113342-4358 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,75885> to <0,75892>
+20230730-113343-3789 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,79846> to <0,79846>
+20230730-113343-3794 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,79846> to <0,79846>
+20230730-113344-4884 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,84076> to <0,84079>
+20230730-113345-2550 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,86545> to <0,86547>
+20230730-113345-5440 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,88092> to <0,88095>
+20230730-113345-8675 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,89114> to <0,89114>
+20230730-113345-8676 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,89114> to <0,89114>
+20230730-113345-8795 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,89172> to <0,89174>
+20230730-113345-9402 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,89444> to <0,89448>
+20230730-113345-9405 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,89445> to <0,89449>
+20230730-113346-2488 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91112> to <0,91113>
+20230730-113346-2489 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,91112> to <0,91114>
+20230730-113347-9173 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,95822> to <0,95823>
+20230730-113347-9275 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,95848> to <0,95853>
+20230730-113348-3607 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,97778> to <0,97781>
+20230730-113348-3610 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,97779> to <0,97782>
+20230730-113348-8955 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,99801> to <0,99804>
+20230730-113348-8956 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,99801> to <0,99804>
+20230730-113348-8960 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,99804> to <0,99805>
+20230730-113348-8961 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,99804> to <0,99805>
+20230730-113350-0952 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113352-4682 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,108008> to <0,108011>
+20230730-113352-5361 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,108388> to <0,108389>
+20230730-113352-5363 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,108389> to <0,108392>
+20230730-113353-4123 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,112726> to <0,112731>
+20230730-113354-1954 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,114984> to <0,114985>
+20230730-113355-1578 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,118193> to <0,118193>
+20230730-113355-1580 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,118193> to <0,118194>
+20230730-113356-1018 00054 ! releaseForRead  (lockserver.cc:566): [4153359164543210137] state is wrong in lock: 65oGJQghNVJmx9EkEOqIS57Q20cR5JjNg3sRo5lrFaxiuCi2QIJIn7nqJ1qhB6Yk
+20230730-113356-5117 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,123962> to <0,123966>
+20230730-113356-5119 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,123963> to <0,123967>
+20230730-113357-1929 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,126410> to <0,126410>
+20230730-113357-1930 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,126410> to <0,126410>
+20230730-113357-3836 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,127592> to <0,127596>
+20230730-113357-3837 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,127593> to <0,127596>
+20230730-113357-5508 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,128647> to <0,128648>
+20230730-113357-5509 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,128647> to <0,128648>
+20230730-113357-5510 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,128648> to <0,128649>
+20230730-113357-5510 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,128648> to <0,128649>
+20230730-113358-2125 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,130351> to <0,130353>
+20230730-113358-2126 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,130352> to <0,130353>
+20230730-113358-4862 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,131088> to <0,131162>
+20230730-113358-4978 00054 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113358-4982 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,131105> to <0,131162>
+20230730-113358-4992 00054 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113358-4995 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,131122> to <0,131162>
+20230730-113358-4996 00054 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113358-4998 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,131138> to <0,131162>
+20230730-113358-4998 00054 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-113358-5000 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,131147> to <0,131162>
+20230730-113358-5002 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,131158> to <0,131162>
+20230730-113358-5003 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,131159> to <0,131162>
+20230730-113358-5005 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,131160> to <0,131162>
+20230730-113358-5015 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,131072> to <0,131162>
+20230730-113358-5016 00054 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 3 fragments
+20230730-113359-0540 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,133718> to <0,133720>
+20230730-113400-9789 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8827 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8828 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8829 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8830 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8831 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8831 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8832 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8832 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8833 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8835 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8836 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8838 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8839 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8839 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8839 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8840 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8842 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8843 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8844 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8844 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8845 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8845 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8845 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8846 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8846 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8847 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8847 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8847 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8848 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8848 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8848 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8849 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8850 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8850 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8850 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8851 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8851 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8852 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8852 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8852 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8853 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8853 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8854 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8854 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8854 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8855 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8855 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8856 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8856 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8856 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8857 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8857 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8857 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8858 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8858 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8862 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8864 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8865 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8866 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8867 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8868 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8868 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8868 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8869 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8869 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8870 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8870 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8870 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8871 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8871 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8872 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8872 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8872 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8873 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8873 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8873 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8874 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8874 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8875 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8875 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8875 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8876 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8876 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8877 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8877 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8878 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8879 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8880 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8880 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8881 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8882 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8882 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8883 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8883 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8884 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8885 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8885 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8886 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8886 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8887 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8887 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8887 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8888 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8888 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8889 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8889 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8889 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8890 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8890 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8891 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8891 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8891 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8892 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8892 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8893 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8893 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8894 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8894 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8895 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8895 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8895 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8896 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8896 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8897 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8897 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8898 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8898 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8899 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8899 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8899 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8900 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8900 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8901 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8901 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8901 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8902 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8902 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8903 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8903 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8903 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8903 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8903 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8903 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8904 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8904 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8904 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8904 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8904 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8904 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8904 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8905 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8905 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8905 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8905 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8905 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8905 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8906 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8906 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8906 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8906 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8906 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8906 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8907 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8907 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8907 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8907 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-8907 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8907 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8908 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8908 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8909 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8909 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8909 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8909 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8909 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8910 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8910 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8910 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8910 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8910 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8910 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8911 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8911 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8911 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8911 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8912 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8912 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8913 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8914 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8914 00054 * HandleRequest   (replica.cc:454):   [0] Received duplicate request but no reply available; ignoring
+20230730-113401-8916 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,135676> to <0,136929>
+20230730-113401-8930 00054 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 36 fragments
+20230730-113401-8936 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,136929> to <0,136929>
+20230730-113401-8942 00054 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 3 fragments
+20230730-113401-8943 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,135678> to <0,136929>
+20230730-113401-8955 00054 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 36 fragments
+20230730-113401-8963 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,136929> to <0,136930>
+20230730-113401-8969 00054 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 4 fragments
+20230730-113401-8971 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,135678> to <0,136930>
+20230730-113401-8983 00054 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 37 fragments
+20230730-113401-9034 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,136930> to <0,137053>
+20230730-113401-9041 00054 * SendMessageInternal (udptransport.cc:448): Sending large replication.vr.proto.StateTransferMessage message in 4 fragments
+20230730-113401-9063 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,137053> to <0,137057>
+20230730-113401-9065 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,137053> to <0,137058>
+20230730-113401-9252 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-9257 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-9308 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-9323 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-9328 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-9337 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-9427 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113401-9472 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113402-2073 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113402-3033 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-1520 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140347> to <0,140348>
+20230730-113403-1521 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140347> to <0,140349>
+20230730-113403-1524 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140348> to <0,140349>
+20230730-113403-1525 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140348> to <0,140349>
+20230730-113403-1604 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140399> to <0,140401>
+20230730-113403-1604 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140399> to <0,140401>
+20230730-113403-1607 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140400> to <0,140402>
+20230730-113403-1607 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140400> to <0,140402>
+20230730-113403-1608 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140401> to <0,140402>
+20230730-113403-1610 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140401> to <0,140402>
+20230730-113403-1872 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140610> to <0,140611>
+20230730-113403-1873 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140610> to <0,140612>
+20230730-113403-1874 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140611> to <0,140612>
+20230730-113403-1875 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140611> to <0,140613>
+20230730-113403-1959 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140697> to <0,140701>
+20230730-113403-2046 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140781> to <0,140782>
+20230730-113403-2047 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140781> to <0,140782>
+20230730-113403-2050 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140782> to <0,140783>
+20230730-113403-2050 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140782> to <0,140783>
+20230730-113403-2085 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140806> to <0,140811>
+20230730-113403-2116 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140840> to <0,140842>
+20230730-113403-2116 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140840> to <0,140842>
+20230730-113403-2117 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140841> to <0,140843>
+20230730-113403-2117 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140841> to <0,140843>
+20230730-113403-2118 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140842> to <0,140843>
+20230730-113403-2119 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,140842> to <0,140843>
+20230730-113403-2513 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141225> to <0,141227>
+20230730-113403-2514 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141226> to <0,141228>
+20230730-113403-2540 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141253> to <0,141255>
+20230730-113403-2640 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141341> to <0,141345>
+20230730-113403-2641 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141342> to <0,141346>
+20230730-113403-2643 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141343> to <0,141348>
+20230730-113403-3000 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141667> to <0,141668>
+20230730-113403-3027 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141694> to <0,141697>
+20230730-113403-3030 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141696> to <0,141699>
+20230730-113403-3051 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141717> to <0,141723>
+20230730-113403-3054 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141718> to <0,141725>
+20230730-113403-3299 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141951> to <0,141952>
+20230730-113403-3300 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141951> to <0,141952>
+20230730-113403-3301 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141952> to <0,141953>
+20230730-113403-3302 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141952> to <0,141953>
+20230730-113403-3322 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141975> to <0,141976>
+20230730-113403-3322 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141975> to <0,141976>
+20230730-113403-3323 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141976> to <0,141977>
+20230730-113403-3324 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,141976> to <0,141977>
+20230730-113403-3454 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142111> to <0,142113>
+20230730-113403-3455 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142111> to <0,142113>
+20230730-113403-3456 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142113> to <0,142114>
+20230730-113403-3457 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142113> to <0,142116>
+20230730-113403-3709 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142339> to <0,142344>
+20230730-113403-3711 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142340> to <0,142344>
+20230730-113403-3712 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142341> to <0,142345>
+20230730-113403-3877 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142485> to <0,142488>
+20230730-113403-3878 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142486> to <0,142488>
+20230730-113403-3896 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142507> to <0,142508>
+20230730-113403-3897 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142507> to <0,142508>
+20230730-113403-3898 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142508> to <0,142509>
+20230730-113403-3901 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142508> to <0,142509>
+20230730-113403-4160 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142756> to <0,142759>
+20230730-113403-4163 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,142757> to <0,142760>
+20230730-113403-4534 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,143114> to <0,143119>
+20230730-113403-4535 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,143115> to <0,143119>
+20230730-113403-4537 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,143116> to <0,143122>
+20230730-113403-4543 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,143126> to <0,143126>
+20230730-113403-4546 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,143126> to <0,143132>
+20230730-113403-4549 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,143127> to <0,143135>
+20230730-113403-6177 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-6322 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-6326 00054 * HandleRequest   (replica.cc:447):   [0] Received duplicate request; resending reply
+20230730-113403-9137 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,144267> to <0,144269>
+20230730-113403-9139 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,144268> to <0,144270>
+20230730-113403-9178 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,144295> to <0,144301>
+20230730-113403-9183 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,144297> to <0,144304>
+20230730-113403-9323 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,144428> to <0,144431>
+20230730-113403-9324 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,144428> to <0,144431>
+20230730-113403-9324 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,144429> to <0,144431>
+20230730-113403-9326 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,144429> to <0,144432>
+20230730-113403-9326 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,144431> to <0,144432>
+20230730-113403-9328 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,144431> to <0,144436>
+20230730-113403-9346 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,144450> to <0,144454>
+20230730-113404-1434 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,146000> to <0,146002>
+20230730-113404-1437 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,146001> to <0,146004>
+20230730-113410-2944 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,163322> to <0,163326>
+20230730-113411-1360 00054 ! releaseForRead  (lockserver.cc:566): [4380398401207280239] state is wrong in lock: 65oGJQghNVJmx9EkEOqIS57Q20cR5JjNg3sRo5lrFaxiuCi2QIJIn7nqJ1qhB6Yk
+20230730-113411-3948 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,166743> to <0,166747>
+20230730-113411-3958 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,166743> to <0,166747>
+20230730-113411-3960 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,166747> to <0,166748>
+20230730-113411-3961 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,166747> to <0,166748>
+20230730-113411-9959 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,170406> to <0,170415>
+20230730-113411-9962 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,170408> to <0,170416>
+20230730-113411-9965 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,170409> to <0,170418>
+20230730-113412-1896 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,171888> to <0,171888>
+20230730-113412-1901 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,171888> to <0,171889>
+20230730-113412-1908 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,171889> to <0,171894>
+20230730-113412-2404 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,172170> to <0,172173>
+20230730-113413-1707 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,174618> to <0,174620>
+20230730-113413-1710 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,174618> to <0,174621>
+20230730-113413-1713 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,174620> to <0,174621>
+20230730-113413-1714 00054 * HandleRequestStateTransfer (replica.cc:753):   [0] Sending state transfer from <0,174620> to <0,174621>
+20230730-113414-0431 00054 ! releaseForPreRead (lockserver.cc:510): [933406245073620714] prestate is wrong in lock: 65oGJQghNVJmx9EkEOqIS57Q20cR5JjNg3sRo5lrFaxiuCi2QIJIn7nqJ1qhB6Yk

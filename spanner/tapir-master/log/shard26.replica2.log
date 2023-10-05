@@ -1,0 +1,328 @@
+20230730-160716-8402 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,9526> to <0,9553>
+20230730-160716-8403 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160717-5691 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,14425>
+20230730-160719-0945 03680 ! releaseForWrite (lockserver.cc:353): [4728019684135260021] Releasing unheld write lock: UKGA5d3ZCJtbqp2lxQI2GfircXAL717fI6kPnNTrPH0lXULerBzMwBnowXbJ5pRa
+20230730-160719-0945 03680 ! releaseForRead  (lockserver.cc:293): [4728019684135260021] Releasing unheld read lock: XyEEp8dZJaRJdAXnwiEybkDbSZ7I8i1eTDZz9ACVrf681MOA6AGvewsxtQtQAO5N
+20230730-160720-0483 03680 ! releaseForRead  (lockserver.cc:293): [7785929724605490033] Releasing unheld read lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160720-0614 03680 ! releaseForWrite (lockserver.cc:353): [-2856198753874841604] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160720-0615 03680 ! releaseForRead  (lockserver.cc:293): [-2856198753874841604] Releasing unheld read lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160720-4086 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,32781>
+20230730-160720-4087 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,32782>
+20230730-160720-4088 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,32783>
+20230730-160720-4089 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,32787>
+20230730-160720-4090 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,32789>
+20230730-160720-4092 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,32795>
+20230730-160720-4092 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,32796>
+20230730-160720-4093 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,32787> to <0,32797>
+20230730-160720-4094 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,32789> to <0,32797>
+20230730-160720-4095 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,32798>
+20230730-160720-4097 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,32799>
+20230730-160720-4099 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,32795> to <0,32800>
+20230730-160720-4100 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,32796> to <0,32801>
+20230730-160720-4100 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,32801>
+20230730-160720-4101 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,32802>
+20230730-160720-4102 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,32798> to <0,32802>
+20230730-160720-4102 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,32799> to <0,32802>
+20230730-160720-4105 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,32801> to <0,32802>
+20230730-160720-4108 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,32802> to <0,32802>
+20230730-160721-2012 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,38440> to <0,38441>
+20230730-160721-2014 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,38441> to <0,38442>
+20230730-160721-2015 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,38442> to <0,38445>
+20230730-160721-2019 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,38446> to <0,38449>
+20230730-160721-2021 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,38448> to <0,38452>
+20230730-160721-9319 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,43849> to <0,43851>
+20230730-160721-9321 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,43851> to <0,43852>
+20230730-160722-0367 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,44571> to <0,44599>
+20230730-160722-0367 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160722-0369 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,44580> to <0,44600>
+20230730-160722-0369 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160722-0376 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,44599> to <0,44607>
+20230730-160722-0377 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,44601> to <0,44607>
+20230730-160722-0378 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,44602> to <0,44608>
+20230730-160722-0379 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,44606> to <0,44608>
+20230730-160722-0380 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,44607> to <0,44608>
+20230730-160722-0381 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,44608> to <0,44609>
+20230730-160723-3424 03680 ! releaseForRead  (lockserver.cc:293): [3125280080551380036] Releasing unheld read lock: Lbe2xl6NwMdPw729hiKW7Hjl0jfL08NkG723AuNUKeF0tilZIPfLz5hGf7PXZ8Ej
+20230730-160723-3437 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,53882>
+20230730-160723-3441 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,53883>
+20230730-160723-3442 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,53884>
+20230730-160723-3446 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,53885>
+20230730-160723-3474 03680 ! releaseForWrite (lockserver.cc:353): [1136504265377010028] Releasing unheld write lock: zaGOMgNZTEGFwE8MRqiRlMHarB8myCZc8cyixAU7f5mMwPJGkf05P3MxwWKhNjwF
+20230730-160723-3474 03680 ! releaseForRead  (lockserver.cc:293): [1136504265377010028] Releasing unheld read lock: Lbe2xl6NwMdPw729hiKW7Hjl0jfL08NkG723AuNUKeF0tilZIPfLz5hGf7PXZ8Ej
+20230730-160723-8717 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,56689>
+20230730-160723-8719 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,56691>
+20230730-160723-8720 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,56692>
+20230730-160723-8721 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,56693>
+20230730-160724-0172 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,57697> to <0,57732>
+20230730-160724-0172 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160724-0179 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,57732> to <0,57736>
+20230730-160724-0180 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,57733> to <0,57736>
+20230730-160724-0181 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,57734> to <0,57736>
+20230730-160724-0181 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,57735> to <0,57736>
+20230730-160724-0182 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,57736> to <0,57737>
+20230730-160725-2485 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,65559>
+20230730-160725-2486 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,65562>
+20230730-160725-2488 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,65566>
+20230730-160725-2489 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,65567>
+20230730-160725-2490 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,65559> to <0,65576>
+20230730-160725-2491 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,65576>
+20230730-160725-2492 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,65562> to <0,65577>
+20230730-160725-2493 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,65577>
+20230730-160725-2493 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,65566> to <0,65577>
+20230730-160725-2494 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,65567> to <0,65577>
+20230730-160725-2496 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,65576> to <0,65577>
+20230730-160725-2497 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,65577> to <0,65577>
+20230730-160728-9828 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,88456>
+20230730-160728-9829 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,88457>
+20230730-160728-9830 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,88458>
+20230730-160729-0030 03680 ! releaseForWrite (lockserver.cc:353): [-1010577578177741548] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160729-0031 03680 ! releaseForRead  (lockserver.cc:293): [-1010577578177741548] Releasing unheld read lock: pndzRdsov3us7xGBOR1RKtOpnNk2M6gNl4dAeIe9pSi4rBDW0GwSKeywOEbbBRXJ
+20230730-160729-0038 03680 ! releaseForWrite (lockserver.cc:353): [3173129893006110082] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160729-0038 03680 ! releaseForRead  (lockserver.cc:293): [3173129893006110082] Releasing unheld read lock: XElJxNT8NRc3L8ogsURImb7tcwVw49VjZ0OSj1DJrkn6huSZVnqwNL3a7lRzkVHg
+20230730-160729-0039 03680 ! releaseForRead  (lockserver.cc:293): [3173129893006110082] Releasing unheld read lock: 56c5QdiMjRkKzAuOVLKilUZOmtybbMd0ji9DorIJOvkfCsR4XKcgy6zyMfN7tfFx
+20230730-160729-0079 03680 ! releaseForWrite (lockserver.cc:353): [-8377634216441771559] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160729-0080 03680 ! releaseForWrite (lockserver.cc:353): [-8377634216441771559] Releasing unheld write lock: zcWbBFSLIN6dfYhIOYBfGhxc0ZXVkP71yquf3pf3Vl2REt28hWto7wSWVzmSInzq
+20230730-160729-0080 03680 ! releaseForWrite (lockserver.cc:353): [-8377634216441771559] Releasing unheld write lock: pvxmh9StOpuXogNDm54oMNEKHhqAlUOk76CzgNpdbB8cIU8jlFY4whR7KLpy6VEK
+20230730-160729-0133 03680 ! releaseForWrite (lockserver.cc:353): [3125280080551380066] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160729-0134 03680 ! releaseForWrite (lockserver.cc:353): [-5947072594359871575] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160729-0134 03680 ! releaseForRead  (lockserver.cc:293): [-5947072594359871575] Releasing unheld read lock: 0UxUDmk4y5rVOWNxEyUEvls9TGu7cn9Vq0r2NFlVZZvqEGH8IoIMBl6Pke780Yvz
+20230730-160729-0266 03680 ! releaseForWrite (lockserver.cc:353): [4967095340999190062] Releasing unheld write lock: 2Y30tGV0SJv8Lg0PE7gbnZtfoHhZcqNUrDV2C2JS4P6kFEIVwWFIhCh3DuenN5ki
+20230730-160729-0266 03680 ! releaseForRead  (lockserver.cc:293): [4967095340999190062] Releasing unheld read lock: 92DAxDrXvFq7YOzv3szMAOpj8nL7NDYgLO5LuzC2ds9q3RrhqYKPJdcn8OqdCXgW
+20230730-160729-0267 03680 ! releaseForRead  (lockserver.cc:293): [4967095340999190062] Releasing unheld read lock: N0nHaSWgxvWa4D8RXVbH4luSVHON1HOX0o5CeTMXhyP5YeJL8woQScyrNVOuVEpH
+20230730-160729-0847 03680 ! releaseForWrite (lockserver.cc:353): [1136504265377010049] Releasing unheld write lock: w3OmPxiTgCGo7hN1K4KYEyjFttgQ2ZutrPFmcOHpTRSElOQ20xKW6VCkopyfnKyu
+20230730-160729-0847 03680 ! releaseForWrite (lockserver.cc:353): [1136504265377010049] Releasing unheld write lock: 92DAxDrXvFq7YOzv3szMAOpj8nL7NDYgLO5LuzC2ds9q3RrhqYKPJdcn8OqdCXgW
+20230730-160729-0884 03680 ! releaseForWrite (lockserver.cc:353): [-4633861809821141549] Releasing unheld write lock: 92DAxDrXvFq7YOzv3szMAOpj8nL7NDYgLO5LuzC2ds9q3RrhqYKPJdcn8OqdCXgW
+20230730-160729-7146 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,93833>
+20230730-160729-7156 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,93838>
+20230730-160729-9040 03680 ! releaseForRead  (lockserver.cc:293): [14988622280410064] Releasing unheld read lock: 92DAxDrXvFq7YOzv3szMAOpj8nL7NDYgLO5LuzC2ds9q3RrhqYKPJdcn8OqdCXgW
+20230730-160729-9041 03680 ! releaseForRead  (lockserver.cc:293): [14988622280410064] Releasing unheld read lock: s0ZN77CsJEmosmS1mZoHRJaYTV1BbcgYCx3fxkV0OAozLp8EZHs9T2p8EN1JTSPS
+20230730-160730-1485 03680 ! releaseForWrite (lockserver.cc:353): [-473339761346521559] Releasing unheld write lock: 92DAxDrXvFq7YOzv3szMAOpj8nL7NDYgLO5LuzC2ds9q3RrhqYKPJdcn8OqdCXgW
+20230730-160730-1613 03680 ! releaseForWrite (lockserver.cc:353): [4867092057835250022] Releasing unheld write lock: 92DAxDrXvFq7YOzv3szMAOpj8nL7NDYgLO5LuzC2ds9q3RrhqYKPJdcn8OqdCXgW
+20230730-160730-3339 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,97891>
+20230730-160730-5416 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,99437>
+20230730-160730-5418 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,99438>
+20230730-160730-7533 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,101042>
+20230730-160730-7535 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,101042> to <0,101042>
+20230730-160730-7833 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,101321> to <0,101321>
+20230730-160730-7835 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,101322> to <0,101323>
+20230730-160730-7835 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,101323> to <0,101323>
+20230730-160732-1385 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,108908>
+20230730-160735-6675 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,128535>
+20230730-160736-2388 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,131087>
+20230730-160736-2390 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,131096>
+20230730-160736-2390 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,131098>
+20230730-160736-2391 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,131099>
+20230730-160736-2392 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,131107>
+20230730-160736-2393 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,131108>
+20230730-160736-2394 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,131109>
+20230730-160736-2409 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,131109> to <0,131109>
+20230730-160737-1035 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,135896>
+20230730-160737-1036 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,135897>
+20230730-160737-1038 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,135900>
+20230730-160737-1041 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,135901>
+20230730-160737-1043 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,135902>
+20230730-160737-2454 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,136892> to <0,136946>
+20230730-160737-2455 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 3 fragments
+20230730-160737-2935 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,137282>
+20230730-160737-2937 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,137282> to <0,137284>
+20230730-160737-2938 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,137284>
+20230730-160737-2939 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,137285>
+20230730-160737-2940 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,137284> to <0,137285>
+20230730-160737-2940 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,137285> to <0,137286>
+20230730-160737-2941 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,137286>
+20230730-160737-2943 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,137286> to <0,137287>
+20230730-160737-2944 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,137288>
+20230730-160737-2946 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,137288> to <0,137288>
+20230730-160737-7093 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,140095>
+20230730-160737-7099 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,140099>
+20230730-160737-8913 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,141351> to <0,141351>
+20230730-160738-0278 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,142257>
+20230730-160738-0279 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,142259>
+20230730-160740-8458 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,163148>
+20230730-160742-7708 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,176512>
+20230730-160742-7709 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,176512> to <0,176513>
+20230730-160742-7709 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,176513>
+20230730-160742-7710 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,176513> to <0,176513>
+20230730-160742-7715 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,176514>
+20230730-160743-2168 03680 ! releaseForWrite (lockserver.cc:353): [3085634542517210134] Releasing unheld write lock: Lbe2xl6NwMdPw729hiKW7Hjl0jfL08NkG723AuNUKeF0tilZIPfLz5hGf7PXZ8Ej
+20230730-160743-2169 03680 ! releaseForWrite (lockserver.cc:353): [3085634542517210134] Releasing unheld write lock: iojDUSvlwM7H4dcUWQZFbfON46fBdHd92Bjt9HqnxKm5E2xy990iYC7B80IMKBMS
+20230730-160743-2169 03680 ! releaseForWrite (lockserver.cc:353): [3085634542517210134] Releasing unheld write lock: 0GLZcg8X8HnDoohJkyvjOqcouaWTquKQb5SdgxYToJ1dDEAEBfHHuzyniP8gyR7N
+20230730-160743-2169 03680 ! releaseForWrite (lockserver.cc:353): [3085634542517210134] Releasing unheld write lock: Pui1iNNXZk6eK1Z2SEkfdhB4Pi8WA3IofBo0x5JNGGmZJiRnhhh87NV8bsxddDfr
+20230730-160743-2869 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,179621>
+20230730-160743-2871 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,179622>
+20230730-160743-6375 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,182002>
+20230730-160743-6410 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,182004>
+20230730-160743-6411 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,182005>
+20230730-160743-6412 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,182006>
+20230730-160743-6418 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,182030>
+20230730-160743-6425 03680 ! OnReadable      (udptransport.cc:573): Fragments out of order for packet 16; expected start 0, got 9000
+20230730-160744-3767 03680 ! releaseForWrite (lockserver.cc:353): [7785929724605490139] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160744-9607 03680 ! releaseForWrite (lockserver.cc:353): [4931479806495690120] Releasing unheld write lock: Mii7Y7i39pW3M8aH8Rh62GhjjFiTevyiuM2XkD1RA2PQnkUCjbMpnTZffWnKn0fI
+20230730-160744-9618 03680 ! releaseForRead  (lockserver.cc:293): [8664164138041690143] Releasing unheld read lock: Mii7Y7i39pW3M8aH8Rh62GhjjFiTevyiuM2XkD1RA2PQnkUCjbMpnTZffWnKn0fI
+20230730-160744-9694 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,190513>
+20230730-160744-9718 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,190514>
+20230730-160744-9719 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,190515>
+20230730-160744-9719 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,190516>
+20230730-160744-9720 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,190517>
+20230730-160744-9722 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,190523>
+20230730-160744-9739 03680 ! OnReadable      (udptransport.cc:565): Failed to reconstruct packet 16
+20230730-160744-9741 03680 ! OnReadable      (udptransport.cc:573): Fragments out of order for packet 18; expected start 9000, got 18000
+20230730-160744-9741 03680 ! OnReadable      (udptransport.cc:565): Failed to reconstruct packet 18
+20230730-160745-0192 03680 ! releaseForRead  (lockserver.cc:293): [-3180685422364941510] Releasing unheld read lock: Mii7Y7i39pW3M8aH8Rh62GhjjFiTevyiuM2XkD1RA2PQnkUCjbMpnTZffWnKn0fI
+20230730-160745-8122 03680 ! releaseForWrite (lockserver.cc:353): [-1217961163876361488] Releasing unheld write lock: BLYVWdzkC0TmHhWJzL8BZPDBl51Yl0hunDzxzn7YlUOUQbiFuaIFSdMSMaRR7rUf
+20230730-160745-8122 03680 ! releaseForWrite (lockserver.cc:353): [-1217961163876361488] Releasing unheld write lock: t9mmSGXpJZkzYbswpNz9VrVax6axIfjFLhqUF8jhmy3FG4QmVGE0tAx8ZFDeYrod
+20230730-160745-8123 03680 ! releaseForRead  (lockserver.cc:293): [-1217961163876361488] Releasing unheld read lock: 3lh9CRdV68OqB0X5t0HlavVDrMaX0gPDjl6zZs6JHtK3DXKDZyUDhv0UYLdUNBqQ
+20230730-160745-8523 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,196932>
+20230730-160746-0174 03680 ! releaseForWrite (lockserver.cc:353): [5406911380383040119] Releasing unheld write lock: mjkkoPZND9XNwyDUKrZraOHgGH3acK175yMGZf0Gqqz850qeb2XicjTZdhGIVPWo
+20230730-160746-0175 03680 ! releaseForWrite (lockserver.cc:353): [5406911380383040119] Releasing unheld write lock: pAQU276bzKBHv2XWGW7mRTtPap2uFSViRq3MTy4mHSOFLAcOs1dqGGTC3IBiaIk3
+20230730-160746-0175 03680 ! releaseForWrite (lockserver.cc:353): [5406911380383040119] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160746-0175 03680 ! releaseForRead  (lockserver.cc:293): [5406911380383040119] Releasing unheld read lock: QCbpdVFKTErcAoUtRb16GPwjWOKGpneVKTevmXU8OcT93Aurp0w20zkYEwldvJHd
+20230730-160746-0175 03680 ! releaseForRead  (lockserver.cc:293): [5406911380383040119] Releasing unheld read lock: WAyMM09gC2VaHh4EHc8DNyY15f6HQNOOmWy6qJFrCYlMEP2kpNTvdzCtti2hqKMG
+20230730-160746-0191 03680 ! releaseForWrite (lockserver.cc:353): [-2856198753874841502] Releasing unheld write lock: HvuNP3zNBO1ExiV5OJHLpoEHUzXgLOjfJYXcagPtSWWYaQfszAumWFthKmrcfGMf
+20230730-160746-0192 03680 ! releaseForWrite (lockserver.cc:353): [-2856198753874841502] Releasing unheld write lock: xSbnOcuDqxpXLMjaq4sTraMaAW1YQsyTdLoX9Bm89EoEdusOwg3OxSIhLSztZRdG
+20230730-160746-0192 03680 ! releaseForWrite (lockserver.cc:353): [-2856198753874841502] Releasing unheld write lock: SCDOtt8FSVAJhIEZ4LJaSZLyhy9b3Hcof7T4xbBT7emOtm841GL2UydJxIZuCtSX
+20230730-160746-0192 03680 ! releaseForWrite (lockserver.cc:353): [-2856198753874841502] Releasing unheld write lock: tdMAzHkDW7WYoX7tYfhw3kX0WP6CFcDhramWktTP57Ko80VBBgtzfJ71bYL6wKTC
+20230730-160746-0192 03680 ! releaseForRead  (lockserver.cc:293): [-2856198753874841502] Releasing unheld read lock: eU9bCK0SsHgFKNJYYSfAVThEvCXsooFLYmdyII9YBYLzpQNqqCMwnrNVmN1cDSza
+20230730-160746-0192 03680 ! releaseForRead  (lockserver.cc:293): [-2856198753874841502] Releasing unheld read lock: GrB5cqiHhJTTZ5oiBSPXdI4jCAEFSEaHHNzthEZwiqoahnzW1Qu6XpSobecM7Wim
+20230730-160746-0193 03680 ! releaseForRead  (lockserver.cc:293): [-2856198753874841502] Releasing unheld read lock: xSbnOcuDqxpXLMjaq4sTraMaAW1YQsyTdLoX9Bm89EoEdusOwg3OxSIhLSztZRdG
+20230730-160746-0840 03680 ! releaseForWrite (lockserver.cc:353): [3125280080551380155] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160746-0840 03680 ! releaseForWrite (lockserver.cc:353): [3125280080551380155] Releasing unheld write lock: TtJ0gOsEckJNjX3jef3rnAviMliG9Rf0x2mDyFNxAMW0dh4F8ieVrP2ZSsGgXMWq
+20230730-160746-3163 03680 ! releaseForWrite (lockserver.cc:353): [-5858011395487111487] Releasing unheld write lock: 92DAxDrXvFq7YOzv3szMAOpj8nL7NDYgLO5LuzC2ds9q3RrhqYKPJdcn8OqdCXgW
+20230730-160746-3163 03680 ! releaseForWrite (lockserver.cc:353): [-5858011395487111487] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160746-3164 03680 ! releaseForWrite (lockserver.cc:353): [-5858011395487111487] Releasing unheld write lock: 3lh9CRdV68OqB0X5t0HlavVDrMaX0gPDjl6zZs6JHtK3DXKDZyUDhv0UYLdUNBqQ
+20230730-160746-3164 03680 ! releaseForRead  (lockserver.cc:293): [-5858011395487111487] Releasing unheld read lock: 5TZrPDMeRyMRNpNH332e4rAzJ2d8ezCAXDyE8rSRVcuG3gJfPye5FJVvLzN4JY1V
+20230730-160746-5392 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,200796>
+20230730-160746-5393 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,200796> to <0,200796>
+20230730-160746-5820 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,201102>
+20230730-160746-5921 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,201103>
+20230730-160746-5923 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,201107>
+20230730-160746-5924 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,201108>
+20230730-160746-5953 03680 ! OnReadable      (udptransport.cc:565): Failed to reconstruct packet 1f
+20230730-160746-5955 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,201215>
+20230730-160746-5961 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,201229>
+20230730-160746-9127 03680 ! releaseForWrite (lockserver.cc:353): [3173129893006110163] Releasing unheld write lock: 3lh9CRdV68OqB0X5t0HlavVDrMaX0gPDjl6zZs6JHtK3DXKDZyUDhv0UYLdUNBqQ
+20230730-160746-9128 03680 ! releaseForRead  (lockserver.cc:293): [3173129893006110163] Releasing unheld read lock: Mii7Y7i39pW3M8aH8Rh62GhjjFiTevyiuM2XkD1RA2PQnkUCjbMpnTZffWnKn0fI
+20230730-160746-9133 03680 ! releaseForWrite (lockserver.cc:353): [-6494613781370241475] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160746-9134 03680 ! releaseForRead  (lockserver.cc:293): [-6494613781370241475] Releasing unheld read lock: aEFA6n6wwpTbuXlzRkptUkh0dU6HFzdct6WWSvuEfSGK6CKDfmuwsb37yDB63Xe9
+20230730-160746-9135 03680 ! releaseForWrite (lockserver.cc:353): [3181488855192780118] Releasing unheld write lock: Mii7Y7i39pW3M8aH8Rh62GhjjFiTevyiuM2XkD1RA2PQnkUCjbMpnTZffWnKn0fI
+20230730-160746-9135 03680 ! releaseForRead  (lockserver.cc:293): [3181488855192780118] Releasing unheld read lock: 3lh9CRdV68OqB0X5t0HlavVDrMaX0gPDjl6zZs6JHtK3DXKDZyUDhv0UYLdUNBqQ
+20230730-160746-9143 03680 ! releaseForWrite (lockserver.cc:353): [3400766752676270133] Releasing unheld write lock: T9RCsbEb5el6IUsu0NdX6ij6oKsVgYHVrGIqVI8bW0al9t81Jmj580BmRwod5YES
+20230730-160746-9144 03680 ! releaseForWrite (lockserver.cc:353): [3400766752676270133] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160746-9144 03680 ! releaseForRead  (lockserver.cc:293): [3400766752676270133] Releasing unheld read lock: Zk7Cez0cRxGVlo2LUXeYsrxNXBXVpvnMC4qIQmC6Q2QI69vbPxqx2FaN6jb7l4uK
+20230730-160746-9146 03680 ! releaseForWrite (lockserver.cc:353): [-6472852349798261487] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160746-9146 03680 ! releaseForWrite (lockserver.cc:353): [-6472852349798261487] Releasing unheld write lock: T7jy3Fyze3usHEPmaaLpA12qh0lekDoIPPEmMUk7e7aY8uBfvCp9AxZPy5f5qZco
+20230730-160746-9147 03680 ! releaseForRead  (lockserver.cc:293): [-473339761346521488] Releasing unheld read lock: Mii7Y7i39pW3M8aH8Rh62GhjjFiTevyiuM2XkD1RA2PQnkUCjbMpnTZffWnKn0fI
+20230730-160746-9147 03680 ! releaseForRead  (lockserver.cc:293): [-473339761346521488] Releasing unheld read lock: c9ngkgxYQaQjQ3krjGTC7UssLqLsayHyisC6haSOYuxBxWvAXAMUaK8sYJGV9v0k
+20230730-160747-0242 03680 ! releaseForRead  (lockserver.cc:293): [-2856198753874841501] Releasing unheld read lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160747-0493 03680 ! releaseForRead  (lockserver.cc:293): [8241413272861250125] Releasing unheld read lock: 6cagYhc4LUQQnqh8AadQggDBbiOuAU4amB6aPFAKAICz8iGehDg8Ko54Pr6gMlkL
+20230730-160747-0494 03680 ! releaseForRead  (lockserver.cc:293): [8241413272861250125] Releasing unheld read lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160747-0916 03680 ! releaseForRead  (lockserver.cc:293): [3125280080551380156] Releasing unheld read lock: lPCM5JI8xMXwVIp4NpIwjSpZjgsMsURipUhtPo29BsUcejhxV7gDMiR9ioxyzjkO
+20230730-160747-0917 03680 ! releaseForRead  (lockserver.cc:293): [3125280080551380156] Releasing unheld read lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160747-0952 03680 ! releaseForWrite (lockserver.cc:353): [-5947072594359871499] Releasing unheld write lock: RSpSjeFe6pDHhsW0FK9DOz3tYBD2fzDRHfuNpe9nYrKqCQFiQzAUBjOfR4hS5tTG
+20230730-160747-0952 03680 ! releaseForWrite (lockserver.cc:353): [-5947072594359871499] Releasing unheld write lock: A72ceOjyTSVTwfYw9ZLe5Kih2sYAbdhyOsrvIGffVpJ5aS0V0QzhUvnv2obylqxB
+20230730-160747-0953 03680 ! releaseForRead  (lockserver.cc:293): [-5947072594359871499] Releasing unheld read lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160747-1665 03680 ! releaseForWrite (lockserver.cc:353): [-8107024439364701440] Releasing unheld write lock: isRZZ4GjHWz8xoI1r9j0Kls4n595CBRlQ7NrxTEnWACp7SMgpkpTfz1TnvhSsePd
+20230730-160747-1666 03680 ! releaseForRead  (lockserver.cc:293): [-8107024439364701440] Releasing unheld read lock: EXmJo9fdvbvPBx98plarBtoodXPDjtU88lSDiD6C81zJBORnJ5KBFcpsFFODTfZ2
+20230730-160747-1666 03680 ! releaseForRead  (lockserver.cc:293): [-8107024439364701440] Releasing unheld read lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160747-1666 03680 ! releaseForRead  (lockserver.cc:293): [-8107024439364701440] Releasing unheld read lock: RVcQd7aRYR0OFSFq4YNhD6Rf4VCo33zS7CaXczhjYa5IbGcwVu6hKwCTygtlQDby
+20230730-160747-1765 03680 ! releaseForWrite (lockserver.cc:353): [6090032288934650170] Releasing unheld write lock: gC6e4U9KPTNiVM0e7ueXUQALFWb5rqC9TsKpht7mQuuLJr2dhgGvXCHZpXE2usUg
+20230730-160747-4538 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,206097>
+20230730-160747-4540 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,206098>
+20230730-160747-4541 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,206099>
+20230730-160747-7355 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,207743>
+20230730-160747-7357 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,207744>
+20230730-160747-7371 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,207743> to <0,207749>
+20230730-160747-7374 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,207744> to <0,207751>
+20230730-160747-7375 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,207745> to <0,207753>
+20230730-160748-4561 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,211775>
+20230730-160748-4849 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,211919> to <0,212063>
+20230730-160748-4851 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 8 fragments
+20230730-160750-4405 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,224834>
+20230730-160750-4426 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,224838>
+20230730-160751-1581 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,230298>
+20230730-160751-1584 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,230299>
+20230730-160751-1586 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,230301>
+20230730-160751-1589 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,230303>
+20230730-160751-1591 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,230304>
+20230730-160751-1594 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,230306>
+20230730-160751-1598 03680 ! OnReadable      (udptransport.cc:573): Fragments out of order for packet 25; expected start 0, got 9000
+20230730-160751-1600 03680 ! OnReadable      (udptransport.cc:565): Failed to reconstruct packet 25
+20230730-160751-1615 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,230298> to <0,230321>
+20230730-160751-1615 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160751-1617 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,230299> to <0,230324>
+20230730-160751-1617 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160751-1619 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,230301> to <0,230326>
+20230730-160751-1620 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160751-1621 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,230303> to <0,230328>
+20230730-160751-1622 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160751-1622 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,230304> to <0,230329>
+20230730-160751-1623 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160751-1624 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,230306> to <0,230331>
+20230730-160751-1625 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160751-1627 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,230307> to <0,230332>
+20230730-160751-1627 03680 * SendMessageInternal (udptransport.cc:442): Sending large replication.vr.proto.StateTransferMessage message in 2 fragments
+20230730-160751-8254 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,235153>
+20230730-160751-8256 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,235154>
+20230730-160751-8260 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,235155>
+20230730-160754-9160 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,256578>
+20230730-160754-9161 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,256578> to <0,256579>
+20230730-160754-9161 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,256579>
+20230730-160754-9162 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,256580>
+20230730-160754-9163 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,256579> to <0,256580>
+20230730-160754-9164 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,256580> to <0,256581>
+20230730-160754-9470 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,256951>
+20230730-160754-9471 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,256953>
+20230730-160754-9570 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257090> to <0,257091>
+20230730-160754-9572 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257091> to <0,257094>
+20230730-160754-9691 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257248>
+20230730-160754-9694 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257249>
+20230730-160754-9695 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257250>
+20230730-160754-9700 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257255>
+20230730-160754-9702 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257255> to <0,257255>
+20230730-160754-9705 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257256> to <0,257257>
+20230730-160754-9718 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257273> to <0,257275>
+20230730-160754-9720 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257275> to <0,257276>
+20230730-160754-9821 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257421>
+20230730-160754-9966 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257621>
+20230730-160754-9966 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257621> to <0,257622>
+20230730-160754-9967 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257622>
+20230730-160754-9968 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257622> to <0,257622>
+20230730-160755-0055 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257739>
+20230730-160755-0057 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257741>
+20230730-160755-0136 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257844>
+20230730-160755-0137 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257844> to <0,257845>
+20230730-160755-0138 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257845>
+20230730-160755-0139 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257845> to <0,257846>
+20230730-160755-0210 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257941>
+20230730-160755-0212 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257941> to <0,257942>
+20230730-160755-0213 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257942>
+20230730-160755-0213 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257942> to <0,257942>
+20230730-160755-0214 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,257943>
+20230730-160755-0257 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257996> to <0,257996>
+20230730-160755-0258 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,257999> to <0,257999>
+20230730-160755-0295 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,258053> to <0,258057>
+20230730-160755-0297 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,258054> to <0,258059>
+20230730-160755-0298 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,258056> to <0,258059>
+20230730-160755-0367 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,258157>
+20230730-160755-0368 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,258157> to <0,258158>
+20230730-160755-0369 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,258158>
+20230730-160755-0371 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,258158> to <0,258159>
+20230730-160755-0391 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,258186>
+20230730-160755-0393 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,258189>
+20230730-160755-0394 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,258190>
+20230730-160755-0431 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,258243>
+20230730-160755-0433 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,258243> to <0,258244>
+20230730-160755-0433 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,258245>
+20230730-160755-0435 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,258245> to <0,258245>
+20230730-160755-0559 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,258424>
+20230730-160755-0560 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,258426>
+20230730-160755-0561 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,258425> to <0,258426>
+20230730-160755-0563 03680 * HandleRequestStateTransfer (replica.cc:727):   [2] Sending state transfer from <0,258426> to <0,258426>
+20230730-160755-0642 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,258530>
+20230730-160755-0643 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,258531>
+20230730-160755-0644 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,258533>
+20230730-160755-2718 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,259958>
+20230730-160755-2721 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,259960>
+20230730-160755-2938 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,260138>
+20230730-160755-2939 03680 * RequestStateTransfer (replica.cc:212):   [2] Requesting state transfer: <0,260139>
+20230730-160755-7845 03680 ! releaseForWrite (lockserver.cc:353): [-1427092980051841468] Releasing unheld write lock: WxRcCbnyXqIy1YSkMJ59FFJsTTuIl7Cod9eGmaIszI2j4vCHColezNCpuAZZ5ZMD
